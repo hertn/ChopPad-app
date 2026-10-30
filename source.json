@@ -23,6 +23,15 @@
       },
       "versions": [
         {
+          "version": "0.10.0",
+          "buildVersion": "11",
+          "date": "2026-10-30T15:31:16Z",
+          "localizedDescription": "New: record sounds with the mic. In SAMPLE, tap Record (or Song → Record), record, then Use it to trim and chop the take and put it on pads in your kit. Works with plugged-in mics and interfaces too.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.10.0/ChopPad.ipa",
+          "size": 654723,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.9.1",
           "buildVersion": "10",
           "date": "2026-10-30T13:19:21Z",
@@ -41,11 +50,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.9.1",
-      "versionDate": "2026-10-30T13:19:21Z",
-      "versionDescription": "New mute group option in pad EDIT: Cut everything. A pad set to it stops every other sound when you hit it.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.9.1/ChopPad.ipa",
-      "size": 612401
+      "version": "0.10.0",
+      "versionDate": "2026-10-30T15:31:16Z",
+      "versionDescription": "New: record sounds with the mic. In SAMPLE, tap Record (or Song → Record), record, then Use it to trim and chop the take and put it on pads in your kit. Works with plugged-in mics and interfaces too.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.10.0/ChopPad.ipa",
+      "size": 654723
     }
   ],
   "news": []
