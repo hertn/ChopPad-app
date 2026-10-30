@@ -32,11 +32,12 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 - **Pitch it**: make a song or recording higher or lower (±24 semitones) without changing its speed, before chopping; the slices keep that pitch on the pads.
 - **Chop**: split a region into even slices, auto-detect hits, or place markers by hand, then put all the slices on pads in one go, or tap a slice and then the pad it should go on, right in the sampler. LOOP repeats the part or a slice so you can hear whether it loops cleanly.
 - **4 banks × 16 pads**, with a 16-sound drum kit on bank A out of the box.
-- **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one shot or hold, and mute groups. LOOP on the main screen makes a pad loop (tap on / tap off, or while held). A playhead on the main screen shows what part of the sound is playing.
+- **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one shot or hold, and mute groups (it shows which pads are in each group). LOOP on the main screen makes a pad loop (tap on / tap off, or while held). A playhead on the main screen shows what part of the sound is playing.
 - **Pad effects**: filter (darker / thinner), drive and reverb on any pad. They're knobs on the main screen and work live, so you can turn them while you play.
 - **Hold-and-tap functions** like an MPC: hold CLEAR or COPY and tap pads (tap the button once to lock it on).
+- **UNDO**: takes back the last change, whether a recording, CLEAR, COPY, a loaded sound, an EDIT or slices put on pads. The button shows what it will undo.
 - **Sequencer**: record what you play into a 1, 2 or 4 bar loop with count-in, metronome, timing correct, swing, undo and erase. Set the tempo with the BPM knob or tap it in with TAP. While it plays, hold a pad to mute its recorded part.
-- **Note Repeat**: hold REPEAT and a pad for rolls at 1/4 to 1/32, including triplets.
+- **Note Repeat**: turn on REPEAT in SEQ, then hold a pad for rolls at 1/4 to 1/32, including triplets.
 - **16 Levels**: spread one sound across all 16 pads at different pitches.
 - **Kits**: save and load whole setups, including their sequences. Recorded and sampled sounds are saved with the kit.
 - Works in portrait and landscape.
