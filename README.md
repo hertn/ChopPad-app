@@ -33,7 +33,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 - **4 banks × 16 pads**, with a 16-sound drum kit on bank A out of the box.
 - **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one-shot/hold and mute groups.
 - **Hold-and-tap functions** like an MPC: hold CLEAR or COPY and tap pads (tap the button once to lock it on).
-- **Sequencer**: record what you play into a 1, 2 or 4 bar loop with count-in, metronome, timing correct, swing, undo and erase. Set the tempo with the BPM knob or tap it in with TAP. While it plays, hold a pad to mute its recorded part and play over it.
+- **Sequencer**: record what you play into a 1, 2 or 4 bar loop with count-in, metronome, timing correct, swing, undo and erase. Set the tempo with the BPM knob or tap it in with TAP. While it plays, hold a pad to mute its recorded part.
 - **Note Repeat**: hold REPEAT and a pad for rolls at 1/4 to 1/32, including triplets.
 - **16 Levels**: spread one sound across all 16 pads at different pitches.
 - **Kits**: save and load whole setups, including their sequences. Recorded and sampled sounds are saved with the kit.
