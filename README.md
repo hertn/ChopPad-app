@@ -1,6 +1,6 @@
 # ChopPad
 
-An MPC-style sampler for iPhone. Pick a song from your music library or record a sound with the mic, chop it into slices, drop them on pads, and make beats with a built-in drum kit and a looping sequencer.
+An MPC-style sampler for iPhone and iPad (iOS 17 or later). Pick a song from your music library or record a sound with the mic, chop it into slices, drop them on pads, and make beats with a built-in drum kit and a looping sequencer.
 
 <p align="center">
   <img src="docs/landscape.png" width="640" alt="ChopPad in landscape with the sequencer playing">
@@ -40,7 +40,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 - **Note Repeat**: turn on REPEAT in SEQ, then hold a pad for rolls at 1/4 to 1/32, including triplets.
 - **16 Levels**: spread one sound across all 16 pads at different pitches.
 - **Kits**: save and load whole setups, including their sequences. Recorded and sampled sounds are saved with the kit.
-- Works in portrait and landscape.
+- Works on iPhone and iPad, in portrait and landscape. One app covers both.
 
 ## Credits
 
