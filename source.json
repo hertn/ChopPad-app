@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.13.1",
+          "date": "2026-10-30T16:34:27Z",
+          "localizedDescription": "Hold-to-mute is now a complete mute: while a beat plays, holding a pad that has recorded notes silences its whole part and plays nothing. Pads without recorded notes still play normally.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.1/ChopPad.ipa",
+          "size": 694168,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.13.0",
           "date": "2026-10-30T16:29:24Z",
           "localizedDescription": "Hold a pad while a beat plays to mute its whole recorded part (every 16 Levels pitch) and play over it; let go and it comes back. TAP tempo is now on the SEQ screen next to the BPM knob. Fewer coloured buttons: only PLAY (green) and REC (red). SideStore shows the version without a build number.",
@@ -71,11 +79,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.13.0",
-      "versionDate": "2026-10-30T16:29:24Z",
-      "versionDescription": "Hold a pad while a beat plays to mute its whole recorded part (every 16 Levels pitch) and play over it; let go and it comes back. TAP tempo is now on the SEQ screen next to the BPM knob. Fewer coloured buttons: only PLAY (green) and REC (red). SideStore shows the version without a build number.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.0/ChopPad.ipa",
-      "size": 692464
+      "version": "0.13.1",
+      "versionDate": "2026-10-30T16:34:27Z",
+      "versionDescription": "Hold-to-mute is now a complete mute: while a beat plays, holding a pad that has recorded notes silences its whole part and plays nothing. Pads without recorded notes still play normally.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.1/ChopPad.ipa",
+      "size": 694168
     }
   ],
   "news": []
