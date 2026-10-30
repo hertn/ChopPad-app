@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.17.1",
+          "date": "2026-10-30T17:53:41Z",
+          "localizedDescription": "LOOP button on the MAIN screen next to the pad name: tap it to make the pad loop. In pad EDIT, Loop is now a switch, with a choice of tap on / tap off or while held. The playhead in pad EDIT now follows the sound all the way through. Effects are only on the MAIN screen now (removed from EDIT).",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.17.1/ChopPad.ipa",
+          "size": 785273,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.17.0",
           "date": "2026-10-30T17:46:59Z",
           "localizedDescription": "Loop pads: in pad EDIT, Mode now has Loop while held and Loop on/off (tap to start, tap again to stop). The MAIN screen shows a playhead on the pad's waveform while it plays. Waveforms keep gliding after a flick, like iPhone scrolling.",
@@ -135,11 +143,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.17.0",
-      "versionDate": "2026-10-30T17:46:59Z",
-      "versionDescription": "Loop pads: in pad EDIT, Mode now has Loop while held and Loop on/off (tap to start, tap again to stop). The MAIN screen shows a playhead on the pad's waveform while it plays. Waveforms keep gliding after a flick, like iPhone scrolling.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.17.0/ChopPad.ipa",
-      "size": 787476
+      "version": "0.17.1",
+      "versionDate": "2026-10-30T17:53:41Z",
+      "versionDescription": "LOOP button on the MAIN screen next to the pad name: tap it to make the pad loop. In pad EDIT, Loop is now a switch, with a choice of tap on / tap off or while held. The playhead in pad EDIT now follows the sound all the way through. Effects are only on the MAIN screen now (removed from EDIT).",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.17.1/ChopPad.ipa",
+      "size": 785273
     }
   ],
   "news": []
