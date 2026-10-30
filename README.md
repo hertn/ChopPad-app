@@ -1,5 +1,11 @@
 # ChopPad
 
+<p align="center">
+  <a href="https://github.com/hertn/ChopPad-app/releases/latest"><img src="https://img.shields.io/github/v/release/hertn/ChopPad-app?style=flat&amp;labelColor=15181e&amp;color=2ea44f&amp;label=version" alt="Latest version"></a>
+  <a href="https://github.com/hertn/ChopPad-app#install-with-sidestore"><img src="https://img.shields.io/badge/iPhone%20%7C%20iPad-iOS%2017%2B-555?style=flat&amp;labelColor=15181e&amp;logo=apple&amp;logoColor=white" alt="iPhone and iPad, iOS 17 or later"></a>
+  <a href="https://ko-fi.com/hertn"><img src="https://img.shields.io/badge/support-%E2%9D%A4%20Ko--fi-ff5e5b?style=flat&amp;labelColor=15181e&amp;logo=kofi&amp;logoColor=white" alt="Support on Ko-fi"></a>
+</p>
+
 An MPC-style sampler for iPhone and iPad (iOS 17 or later). Pick a song from your music library or record a sound with the mic, chop it into slices, drop them on pads, and make beats with a built-in drum kit and a looping sequencer.
 
 <p align="center">
