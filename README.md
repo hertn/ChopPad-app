@@ -29,7 +29,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 
 - **Sample your own songs**: load MP3s and other songs stored on your iPhone (not Apple Music streaming tracks) or audio from the Files app.
 - **Record sounds**: SAMPLE → Record captures the mic (or a plugged-in mic or interface), then you trim, chop and put the take on pads like any song.
-- **Chop**: split a region into even slices, auto-detect hits, or place markers by hand, then assign the slices to pads in one go.
+- **Chop**: split a region into even slices, auto-detect hits, or place markers by hand, then put all the slices on pads in one go, or tap a slice and then the pad it should go on, right in the sampler.
 - **4 banks × 16 pads**, with a 16-sound drum kit on bank A out of the box.
 - **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one-shot/hold and mute groups.
 - **Hold-and-tap functions** like an MPC: hold CLEAR or COPY and tap pads (tap the button once to lock it on).
@@ -38,6 +38,12 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 - **16 Levels**: spread one sound across all 16 pads at different pitches.
 - **Kits**: save and load whole setups, including their sequences. Recorded and sampled sounds are saved with the kit.
 - Works in portrait and landscape.
+
+## Credits
+
+Made by [hertn](https://github.com/hertn). ChopPad is built with Claude, Anthropic's AI: hertn designs and tests the app, Claude writes the code. The version number and credits are in the app under KITS → About ChopPad.
+
+Inspired by Akai MPC samplers; not affiliated with Akai Professional.
 
 ## License
 
