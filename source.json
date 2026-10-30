@@ -23,6 +23,15 @@
       },
       "versions": [
         {
+          "version": "0.11.0",
+          "buildVersion": "12",
+          "date": "2026-10-30T15:41:28Z",
+          "localizedDescription": "Chop and pick pads: in SAMPLE, tap a slice, then tap the pad it should go on. The sampler stays open so you can map slices one by one (PADS button shows or hides the grid). Also new: KITS → About ChopPad, with the version number, creator, GitHub link and credits.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.11.0/ChopPad.ipa",
+          "size": 686134,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.10.0",
           "buildVersion": "11",
           "date": "2026-10-30T15:31:16Z",
@@ -50,11 +59,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.10.0",
-      "versionDate": "2026-10-30T15:31:16Z",
-      "versionDescription": "New: record sounds with the mic. In SAMPLE, tap Record (or Song → Record), record, then Use it to trim and chop the take and put it on pads in your kit. Works with plugged-in mics and interfaces too.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.10.0/ChopPad.ipa",
-      "size": 654723
+      "version": "0.11.0",
+      "versionDate": "2026-10-30T15:41:28Z",
+      "versionDescription": "Chop and pick pads: in SAMPLE, tap a slice, then tap the pad it should go on. The sampler stays open so you can map slices one by one (PADS button shows or hides the grid). Also new: KITS → About ChopPad, with the version number, creator, GitHub link and credits.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.11.0/ChopPad.ipa",
+      "size": 686134
     }
   ],
   "news": []
