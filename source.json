@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.15.0",
+          "date": "2026-10-30T17:09:08Z",
+          "localizedDescription": "Pad effects: EDIT now has Filter (darker / thinner), Drive and Reverb for every pad. Music Library has a new song list with search and a play button on each song, so you can listen before you sample it.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.15.0/ChopPad.ipa",
+          "size": 741748,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.14.1",
           "date": "2026-10-30T16:58:29Z",
           "localizedDescription": "PITCH in SAMPLE now changes pitch without changing speed. Previews keep their normal speed, and slices you put on pads are saved at that pitch (BROWSE shows it in the name, like \"+3 st\"). Pad TUNE still works the classic MPC way.",
@@ -103,11 +111,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.14.1",
-      "versionDate": "2026-10-30T16:58:29Z",
-      "versionDescription": "PITCH in SAMPLE now changes pitch without changing speed. Previews keep their normal speed, and slices you put on pads are saved at that pitch (BROWSE shows it in the name, like \"+3 st\"). Pad TUNE still works the classic MPC way.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.14.1/ChopPad.ipa",
-      "size": 708345
+      "version": "0.15.0",
+      "versionDate": "2026-10-30T17:09:08Z",
+      "versionDescription": "Pad effects: EDIT now has Filter (darker / thinner), Drive and Reverb for every pad. Music Library has a new song list with search and a play button on each song, so you can listen before you sample it.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.15.0/ChopPad.ipa",
+      "size": 741748
     }
   ],
   "news": []
