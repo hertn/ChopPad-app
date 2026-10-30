@@ -1,0 +1,51 @@
+{
+  "name": "ChopPad",
+  "identifier": "com.hertniks.choppad.source",
+  "subtitle": "MPC-style sampler for iPhone",
+  "iconURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/icon.png",
+  "tintColor": "#FF6B1F",
+  "apps": [
+    {
+      "name": "ChopPad",
+      "bundleIdentifier": "com.hertniks.choppad",
+      "developerName": "hertn",
+      "subtitle": "Sample, chop and play your songs on pads",
+      "localizedDescription": "An MPC-style sampler. Pick a song from your music library, chop it into slices, put them on 16 pads across 4 banks, and play them next to a built-in drum kit. Includes a step-accurate sequencer with swing, note repeat, and 16 Levels.",
+      "iconURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/icon.png",
+      "tintColor": "#FF6B1F",
+      "category": "entertainment",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "ChopPad reads songs from your music library so you can sample and chop them."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.9.1",
+          "buildVersion": "10",
+          "date": "2026-10-30T13:19:21Z",
+          "localizedDescription": "New mute group option in pad EDIT: Cut everything. A pad set to it stops every other sound when you hit it.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.9.1/ChopPad.ipa",
+          "size": 612401,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "0.9.0",
+          "buildVersion": "9",
+          "date": "2026-10-30T12:59:54Z",
+          "localizedDescription": "Version numbers now use x.y.z. New since 1.6: move the playhead in the chop view by sliding along the bottom, and a moving playhead on the waveform in EDIT.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.9.0/ChopPad.ipa",
+          "size": 611598,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "0.9.1",
+      "versionDate": "2026-10-30T13:19:21Z",
+      "versionDescription": "New mute group option in pad EDIT: Cut everything. A pad set to it stops every other sound when you hit it.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.9.1/ChopPad.ipa",
+      "size": 612401
+    }
+  ],
+  "news": []
+}
