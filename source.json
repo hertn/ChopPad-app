@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.13.2",
+          "date": "2026-10-30T16:40:04Z",
+          "localizedDescription": "REC is now solid red with white text and blinks while recording. While playing, the PLAY button turns into a red STOP button.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.2/ChopPad.ipa",
+          "size": 697360,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.13.1",
           "date": "2026-10-30T16:34:27Z",
           "localizedDescription": "Hold-to-mute is now a complete mute: while a beat plays, holding a pad that has recorded notes silences its whole part and plays nothing. Pads without recorded notes still play normally.",
@@ -79,11 +87,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.13.1",
-      "versionDate": "2026-10-30T16:34:27Z",
-      "versionDescription": "Hold-to-mute is now a complete mute: while a beat plays, holding a pad that has recorded notes silences its whole part and plays nothing. Pads without recorded notes still play normally.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.1/ChopPad.ipa",
-      "size": 694168
+      "version": "0.13.2",
+      "versionDate": "2026-10-30T16:40:04Z",
+      "versionDescription": "REC is now solid red with white text and blinks while recording. While playing, the PLAY button turns into a red STOP button.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.2/ChopPad.ipa",
+      "size": 697360
     }
   ],
   "news": []
