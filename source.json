@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.17.0",
+          "date": "2026-10-30T17:46:59Z",
+          "localizedDescription": "Loop pads: in pad EDIT, Mode now has Loop while held and Loop on/off (tap to start, tap again to stop). The MAIN screen shows a playhead on the pad's waveform while it plays. Waveforms keep gliding after a flick, like iPhone scrolling.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.17.0/ChopPad.ipa",
+          "size": 787476,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.16.1",
           "date": "2026-10-30T17:34:45Z",
           "localizedDescription": "New LOOP button in SAMPLE, next to PART: the part (or a tapped slice) repeats seamlessly so you can hear whether your chop loops cleanly. Move START or END while it loops and it picks up the new edges.",
@@ -127,11 +135,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.16.1",
-      "versionDate": "2026-10-30T17:34:45Z",
-      "versionDescription": "New LOOP button in SAMPLE, next to PART: the part (or a tapped slice) repeats seamlessly so you can hear whether your chop loops cleanly. Move START or END while it loops and it picks up the new edges.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.16.1/ChopPad.ipa",
-      "size": 775798
+      "version": "0.17.0",
+      "versionDate": "2026-10-30T17:46:59Z",
+      "versionDescription": "Loop pads: in pad EDIT, Mode now has Loop while held and Loop on/off (tap to start, tap again to stop). The MAIN screen shows a playhead on the pad's waveform while it plays. Waveforms keep gliding after a flick, like iPhone scrolling.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.17.0/ChopPad.ipa",
+      "size": 787476
     }
   ],
   "news": []
