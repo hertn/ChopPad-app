@@ -42,6 +42,10 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 - **Kits**: save and load whole setups, including their sequences. Recorded and sampled sounds are saved with the kit.
 - Works on iPhone and iPad, in portrait and landscape. One app covers both.
 
+## Support
+
+ChopPad is free, with no ads or subscriptions. If you enjoy it, you can [buy me a coffee on Ko-fi](https://ko-fi.com/hertn).
+
 ## Credits
 
 Made by [hertn](https://github.com/hertn). ChopPad is built with Claude, Anthropic's AI: hertn designs and tests the app, Claude writes the code. The version number and credits are in the app under KITS → About ChopPad.
