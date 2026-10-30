@@ -29,7 +29,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 
 - **Sample your own songs**: load MP3s and other songs stored on your iPhone (not Apple Music streaming tracks) or audio from the Files app.
 - **Record sounds**: SAMPLE → Record captures the mic (or a plugged-in mic or interface), then you trim, chop and put the take on pads like any song.
-- **Pitch it**: tune a song or recording up or down (±24 semitones, MPC-style) before chopping; the slices keep that pitch on the pads.
+- **Pitch it**: make a song or recording higher or lower (±24 semitones) without changing its speed, before chopping; the slices keep that pitch on the pads.
 - **Chop**: split a region into even slices, auto-detect hits, or place markers by hand, then put all the slices on pads in one go, or tap a slice and then the pad it should go on, right in the sampler.
 - **4 banks × 16 pads**, with a 16-sound drum kit on bank A out of the box.
 - **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one-shot/hold and mute groups.
