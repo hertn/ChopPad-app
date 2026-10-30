@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.18.0",
+          "date": "2026-10-30T18:03:22Z",
+          "localizedDescription": "REPEAT is replaced by UNDO: it takes back the last change (a recording, CLEAR, COPY, a loaded sound, an EDIT, slices put on pads, or loading a kit), several steps back, and shows what it will undo. Note repeat is still there: turn on REPEAT in SEQ. Looping pads flash each time the loop starts over. Pad EDIT is simpler (volume, pan and tune are on the MAIN screen), and mute groups now show which pads are in each group.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.18.0/ChopPad.ipa",
+          "size": 791908,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.17.1",
           "date": "2026-10-30T17:53:41Z",
           "localizedDescription": "LOOP button on the MAIN screen next to the pad name: tap it to make the pad loop. In pad EDIT, Loop is now a switch, with a choice of tap on / tap off or while held. The playhead in pad EDIT now follows the sound all the way through. Effects are only on the MAIN screen now (removed from EDIT).",
@@ -143,11 +151,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.17.1",
-      "versionDate": "2026-10-30T17:53:41Z",
-      "versionDescription": "LOOP button on the MAIN screen next to the pad name: tap it to make the pad loop. In pad EDIT, Loop is now a switch, with a choice of tap on / tap off or while held. The playhead in pad EDIT now follows the sound all the way through. Effects are only on the MAIN screen now (removed from EDIT).",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.17.1/ChopPad.ipa",
-      "size": 785273
+      "version": "0.18.0",
+      "versionDate": "2026-10-30T18:03:22Z",
+      "versionDescription": "REPEAT is replaced by UNDO: it takes back the last change (a recording, CLEAR, COPY, a loaded sound, an EDIT, slices put on pads, or loading a kit), several steps back, and shows what it will undo. Note repeat is still there: turn on REPEAT in SEQ. Looping pads flash each time the loop starts over. Pad EDIT is simpler (volume, pan and tune are on the MAIN screen), and mute groups now show which pads are in each group.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.18.0/ChopPad.ipa",
+      "size": 791908
     }
   ],
   "news": []
