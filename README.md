@@ -27,13 +27,13 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 
 ## Features
 
-- **Sample your own songs**: load MP3s and other songs stored on your iPhone (not Apple Music streaming tracks) or audio from the Files app. Listen to songs in the library list before you pick one.
+- **Sample your own songs**: load MP3s and other songs stored on your iPhone (not Apple Music streaming tracks) or audio from the Files app. Browse your library by songs, albums, artists or playlists and listen before you pick.
 - **Record sounds**: SAMPLE → Record captures the mic (or a plugged-in mic or interface), then you trim, chop and put the take on pads like any song.
 - **Pitch it**: make a song or recording higher or lower (±24 semitones) without changing its speed, before chopping; the slices keep that pitch on the pads.
 - **Chop**: split a region into even slices, auto-detect hits, or place markers by hand, then put all the slices on pads in one go, or tap a slice and then the pad it should go on, right in the sampler.
 - **4 banks × 16 pads**, with a 16-sound drum kit on bank A out of the box.
 - **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one-shot/hold and mute groups.
-- **Pad effects**: filter (darker / thinner), drive and reverb on any pad, in EDIT.
+- **Pad effects**: filter (darker / thinner), drive and reverb on any pad. They're knobs on the main screen and work live, so you can turn them while you play.
 - **Hold-and-tap functions** like an MPC: hold CLEAR or COPY and tap pads (tap the button once to lock it on).
 - **Sequencer**: record what you play into a 1, 2 or 4 bar loop with count-in, metronome, timing correct, swing, undo and erase. Set the tempo with the BPM knob or tap it in with TAP. While it plays, hold a pad to mute its recorded part.
 - **Note Repeat**: hold REPEAT and a pad for rolls at 1/4 to 1/32, including triplets.
