@@ -23,8 +23,15 @@
       },
       "versions": [
         {
+          "version": "0.13.0",
+          "date": "2026-10-30T16:29:24Z",
+          "localizedDescription": "Hold a pad while a beat plays to mute its whole recorded part (every 16 Levels pitch) and play over it; let go and it comes back. TAP tempo is now on the SEQ screen next to the BPM knob. Fewer coloured buttons: only PLAY (green) and REC (red). SideStore shows the version without a build number.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.0/ChopPad.ipa",
+          "size": 692464,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.12.0",
-          "buildVersion": "13",
           "date": "2026-10-30T16:07:46Z",
           "localizedDescription": "New TAP button: tap it in time to set the tempo. PLAY and STOP are now one button (lit green while playing; tap to stop). Buttons are coloured by what they do: PLAY green, REC red, banks and HOLD functions in their colours. The version in About no longer shows a build number, and the pad-grid hint in SAMPLE now fits on screen.",
           "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.12.0/ChopPad.ipa",
@@ -33,7 +40,6 @@
         },
         {
           "version": "0.11.0",
-          "buildVersion": "12",
           "date": "2026-10-30T15:41:28Z",
           "localizedDescription": "Chop and pick pads: in SAMPLE, tap a slice, then tap the pad it should go on. The sampler stays open so you can map slices one by one (PADS button shows or hides the grid). Also new: KITS → About ChopPad, with the version number, creator, GitHub link and credits.",
           "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.11.0/ChopPad.ipa",
@@ -42,7 +48,6 @@
         },
         {
           "version": "0.10.0",
-          "buildVersion": "11",
           "date": "2026-10-30T15:31:16Z",
           "localizedDescription": "New: record sounds with the mic. In SAMPLE, tap Record (or Song → Record), record, then Use it to trim and chop the take and put it on pads in your kit. Works with plugged-in mics and interfaces too.",
           "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.10.0/ChopPad.ipa",
@@ -51,7 +56,6 @@
         },
         {
           "version": "0.9.1",
-          "buildVersion": "10",
           "date": "2026-10-30T13:19:21Z",
           "localizedDescription": "New mute group option in pad EDIT: Cut everything. A pad set to it stops every other sound when you hit it.",
           "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.9.1/ChopPad.ipa",
@@ -60,7 +64,6 @@
         },
         {
           "version": "0.9.0",
-          "buildVersion": "9",
           "date": "2026-10-30T12:59:54Z",
           "localizedDescription": "Version numbers now use x.y.z. New since 1.6: move the playhead in the chop view by sliding along the bottom, and a moving playhead on the waveform in EDIT.",
           "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.9.0/ChopPad.ipa",
@@ -68,11 +71,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.12.0",
-      "versionDate": "2026-10-30T16:07:46Z",
-      "versionDescription": "New TAP button: tap it in time to set the tempo. PLAY and STOP are now one button (lit green while playing; tap to stop). Buttons are coloured by what they do: PLAY green, REC red, banks and HOLD functions in their colours. The version in About no longer shows a build number, and the pad-grid hint in SAMPLE now fits on screen.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.12.0/ChopPad.ipa",
-      "size": 687720
+      "version": "0.13.0",
+      "versionDate": "2026-10-30T16:29:24Z",
+      "versionDescription": "Hold a pad while a beat plays to mute its whole recorded part (every 16 Levels pitch) and play over it; let go and it comes back. TAP tempo is now on the SEQ screen next to the BPM knob. Fewer coloured buttons: only PLAY (green) and REC (red). SideStore shows the version without a build number.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.13.0/ChopPad.ipa",
+      "size": 692464
     }
   ],
   "news": []
