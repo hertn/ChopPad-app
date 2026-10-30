@@ -10,7 +10,7 @@
       "bundleIdentifier": "com.hertniks.choppad",
       "developerName": "hertn",
       "subtitle": "Sample, record, chop and play on pads",
-      "localizedDescription": "An MPC-style sampler. Pick a song from your music library or record a sound with the mic, chop it into slices, put them on 16 pads across 4 banks, and play them next to a built-in drum kit. Includes a step-accurate sequencer with swing, note repeat, and 16 Levels.",
+      "localizedDescription": "An MPC-style sampler for iPhone and iPad. Pick a song from your music library or record a sound with the mic, chop it into slices, put them on 16 pads across 4 banks, and play them next to a built-in drum kit. Includes a step-accurate sequencer with swing, note repeat, and 16 Levels.",
       "iconURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/icon.png",
       "tintColor": "#FF6B1F",
       "category": "entertainment",
