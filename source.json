@@ -23,6 +23,15 @@
       },
       "versions": [
         {
+          "version": "0.12.0",
+          "buildVersion": "13",
+          "date": "2026-10-30T16:07:46Z",
+          "localizedDescription": "New TAP button: tap it in time to set the tempo. PLAY and STOP are now one button (lit green while playing; tap to stop). Buttons are coloured by what they do: PLAY green, REC red, banks and HOLD functions in their colours. The version in About no longer shows a build number, and the pad-grid hint in SAMPLE now fits on screen.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.12.0/ChopPad.ipa",
+          "size": 687720,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.11.0",
           "buildVersion": "12",
           "date": "2026-10-30T15:41:28Z",
@@ -59,11 +68,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.11.0",
-      "versionDate": "2026-10-30T15:41:28Z",
-      "versionDescription": "Chop and pick pads: in SAMPLE, tap a slice, then tap the pad it should go on. The sampler stays open so you can map slices one by one (PADS button shows or hides the grid). Also new: KITS → About ChopPad, with the version number, creator, GitHub link and credits.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.11.0/ChopPad.ipa",
-      "size": 686134
+      "version": "0.12.0",
+      "versionDate": "2026-10-30T16:07:46Z",
+      "versionDescription": "New TAP button: tap it in time to set the tempo. PLAY and STOP are now one button (lit green while playing; tap to stop). Buttons are coloured by what they do: PLAY green, REC red, banks and HOLD functions in their colours. The version in About no longer shows a build number, and the pad-grid hint in SAMPLE now fits on screen.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.12.0/ChopPad.ipa",
+      "size": 687720
     }
   ],
   "news": []
