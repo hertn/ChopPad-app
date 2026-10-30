@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.19.0",
+          "date": "2026-10-30T19:25:43Z",
+          "localizedDescription": "ChopPad now runs on iPad as well as iPhone (iOS 17 or later), full screen in portrait and landscape, with bigger buttons and pads. It's one app: install it from the same SideStore source on each device. Also new: a Support section in About with an optional Ko-fi tip link.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.19.0/ChopPad.ipa",
+          "size": 793290,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.18.0",
           "date": "2026-10-30T18:03:22Z",
           "localizedDescription": "REPEAT is replaced by UNDO: it takes back the last change (a recording, CLEAR, COPY, a loaded sound, an EDIT, slices put on pads, or loading a kit), several steps back, and shows what it will undo. Note repeat is still there: turn on REPEAT in SEQ. Looping pads flash each time the loop starts over. Pad EDIT is simpler (volume, pan and tune are on the MAIN screen), and mute groups now show which pads are in each group.",
@@ -151,11 +159,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.18.0",
-      "versionDate": "2026-10-30T18:03:22Z",
-      "versionDescription": "REPEAT is replaced by UNDO: it takes back the last change (a recording, CLEAR, COPY, a loaded sound, an EDIT, slices put on pads, or loading a kit), several steps back, and shows what it will undo. Note repeat is still there: turn on REPEAT in SEQ. Looping pads flash each time the loop starts over. Pad EDIT is simpler (volume, pan and tune are on the MAIN screen), and mute groups now show which pads are in each group.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.18.0/ChopPad.ipa",
-      "size": 791908
+      "version": "0.19.0",
+      "versionDate": "2026-10-30T19:25:43Z",
+      "versionDescription": "ChopPad now runs on iPad as well as iPhone (iOS 17 or later), full screen in portrait and landscape, with bigger buttons and pads. It's one app: install it from the same SideStore source on each device. Also new: a Support section in About with an optional Ko-fi tip link.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.19.0/ChopPad.ipa",
+      "size": 793290
     }
   ],
   "news": []
