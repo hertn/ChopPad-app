@@ -1,6 +1,6 @@
 # ChopPad
 
-An MPC-style sampler for iPhone. Pick a song from your music library, chop it into slices, drop them on pads, and make beats with a built-in drum kit and a looping sequencer.
+An MPC-style sampler for iPhone. Pick a song from your music library or record a sound with the mic, chop it into slices, drop them on pads, and make beats with a built-in drum kit and a looping sequencer.
 
 <p align="center">
   <img src="docs/landscape.png" width="640" alt="ChopPad in landscape with the sequencer playing">
@@ -28,6 +28,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 ## Features
 
 - **Sample your own songs**: load MP3s and other songs stored on your iPhone (not Apple Music streaming tracks) or audio from the Files app.
+- **Record sounds**: SAMPLE → Record captures the mic (or a plugged-in mic or interface), then you trim, chop and put the take on pads like any song.
 - **Chop**: split a region into even slices, auto-detect hits, or place markers by hand, then assign the slices to pads in one go.
 - **4 banks × 16 pads**, with a 16-sound drum kit on bank A out of the box.
 - **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one-shot/hold and mute groups.
@@ -35,7 +36,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 - **Sequencer**: record what you play into a 1, 2 or 4 bar loop with count-in, metronome, timing correct, swing, undo and erase.
 - **Note Repeat**: hold REPEAT and a pad for rolls at 1/4 to 1/32, including triplets.
 - **16 Levels**: spread one sound across all 16 pads at different pitches.
-- **Kits**: save and load whole setups, including their sequences.
+- **Kits**: save and load whole setups, including their sequences. Recorded and sampled sounds are saved with the kit.
 - Works in portrait and landscape.
 
 ## License
