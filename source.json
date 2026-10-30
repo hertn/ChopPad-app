@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.16.0",
+          "date": "2026-10-30T17:18:29Z",
+          "localizedDescription": "Effects are now knobs on the main screen (FILTER, DRIVE, REVERB) and work live: turn them while you play the pad, even on a sound that's already playing. Reverb tails now ring on after a pad is cut. 16 Levels: several pads can now play at once (chords). Music Library: browse by Songs, Albums, Artists or Playlists with artwork, and listen before you pick.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.16.0/ChopPad.ipa",
+          "size": 772823,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.15.0",
           "date": "2026-10-30T17:09:08Z",
           "localizedDescription": "Pad effects: EDIT now has Filter (darker / thinner), Drive and Reverb for every pad. Music Library has a new song list with search and a play button on each song, so you can listen before you sample it.",
@@ -111,11 +119,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.15.0",
-      "versionDate": "2026-10-30T17:09:08Z",
-      "versionDescription": "Pad effects: EDIT now has Filter (darker / thinner), Drive and Reverb for every pad. Music Library has a new song list with search and a play button on each song, so you can listen before you sample it.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.15.0/ChopPad.ipa",
-      "size": 741748
+      "version": "0.16.0",
+      "versionDate": "2026-10-30T17:18:29Z",
+      "versionDescription": "Effects are now knobs on the main screen (FILTER, DRIVE, REVERB) and work live: turn them while you play the pad, even on a sound that's already playing. Reverb tails now ring on after a pad is cut. 16 Levels: several pads can now play at once (chords). Music Library: browse by Songs, Albums, Artists or Playlists with artwork, and listen before you pick.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.16.0/ChopPad.ipa",
+      "size": 772823
     }
   ],
   "news": []
