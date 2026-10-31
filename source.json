@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.22.2",
+          "date": "2026-10-31T11:28:26Z",
+          "localizedDescription": "Chop screen: the ‹ › buttons now move the playhead a small step left or right without playing anything. SPLIT, START and END then cut at the playhead.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.2/ChopPad.ipa",
+          "size": 1159810,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.1",
           "date": "2026-10-31T11:21:10Z",
           "localizedDescription": "Chop screen fixes: moving the playhead no longer starts the whole song (it only carries on if the song was playing). The ‹ › nudge buttons now move the selected cut a visible step at the current zoom.",
@@ -191,11 +199,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.1",
-      "versionDate": "2026-10-31T11:21:10Z",
-      "versionDescription": "Chop screen fixes: moving the playhead no longer starts the whole song (it only carries on if the song was playing). The ‹ › nudge buttons now move the selected cut a visible step at the current zoom.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.1/ChopPad.ipa",
-      "size": 1161036
+      "version": "0.22.2",
+      "versionDate": "2026-10-31T11:28:26Z",
+      "versionDescription": "Chop screen: the ‹ › buttons now move the playhead a small step left or right without playing anything. SPLIT, START and END then cut at the playhead.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.2/ChopPad.ipa",
+      "size": 1159810
     }
   ],
   "news": []
