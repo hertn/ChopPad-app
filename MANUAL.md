@@ -1,6 +1,6 @@
 # ChopPad manual
 
-For version 0.22.7. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
+For version 0.22.8. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
 
 **Contents**
 
@@ -184,7 +184,7 @@ Press **SEQ**. The screen shows the sequence's notes and where the playhead is (
 
 **Recording**
 
-- **SEQ RECORD** while stopped makes it blink: it's waiting. **PLAY** then starts recording, with a count-in if COUNT IN is on (SHIFT + pad 4); the screen counts down 4, 3, 2, 1 until recording starts.
+- **SEQ RECORD** while stopped makes it blink: it's waiting. **PLAY** then starts recording, with a count-in if COUNT IN is on (SHIFT + pad 4); the screen counts down 4, 3, 2, 1 until recording starts. Play along with the clicks rather than waiting for the countdown to disappear. A hit just before beat 1 (up to an 8th note early) counts as beat 1, and ChopPad allows for the sound delay of your headphones (Bluetooth ones especially), so notes land where you heard the beat.
 - **SEQ RECORD** while playing starts recording right away. Press it again to stop recording.
 - **SEQ RECORD's RECALL** (SHIFT + SEQ RECORD): played a good part while *not* recording? This puts the last time round the loop of what you played into the sequence, counted back from your last note, so it doesn't matter if you pause before pressing it. Pads that already have notes in the sequence mute while you hold them during playback (see [section 3](#3-pads-and-banks)), so RECALL catches pads that aren't in the sequence yet.
 - **NOTE REPEAT**: hold it and hold pads for rolls. Tap it quickly to keep it on. While it's on, the screen shows the rate (1/4 to 1/32). **SHIFT + NOTE REPEAT** switches to triplets.
