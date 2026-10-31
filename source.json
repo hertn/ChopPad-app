@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.22.6",
+          "date": "2026-10-31T12:18:41Z",
+          "localizedDescription": "Pads now start on MONO (a new hit cuts the last one). Switch a pad to POLY on the AMP page when you want it to play over itself.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.6/ChopPad.ipa",
+          "size": 1159206,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.5",
           "date": "2026-10-31T12:05:43Z",
           "localizedDescription": "The TRIM knobs (START, END, LOOP) are four times finer, for precise trimming.",
@@ -223,11 +231,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.5",
-      "versionDate": "2026-10-31T12:05:43Z",
-      "versionDescription": "The TRIM knobs (START, END, LOOP) are four times finer, for precise trimming.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.5/ChopPad.ipa",
-      "size": 1158836
+      "version": "0.22.6",
+      "versionDate": "2026-10-31T12:18:41Z",
+      "versionDescription": "Pads now start on MONO (a new hit cuts the last one). Switch a pad to POLY on the AMP page when you want it to play over itself.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.6/ChopPad.ipa",
+      "size": 1159206
     }
   ],
   "news": []
