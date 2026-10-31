@@ -33,20 +33,19 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 
 ## Features
 
-- **Sample your own songs**: load MP3s and other songs stored on your iPhone (not Apple Music streaming tracks) or audio from the Files app. Browse your library by songs, albums, artists or playlists and listen before you pick.
-- **Record sounds**: SAMPLE → Record captures the mic (or a plugged-in mic or interface), then you trim, chop and put the take on pads like any song.
-- **Pitch it**: make a song or recording higher or lower (±24 semitones) without changing its speed, before chopping; the slices keep that pitch on the pads.
-- **Chop**: split a region into even slices, auto-detect hits, or place markers by hand, then put all the slices on pads in one go, or tap a slice and then the pad it should go on, right in the sampler. LOOP repeats the part or a slice so you can hear whether it loops cleanly.
-- **4 banks × 16 pads**, with a 16-sound drum kit on bank A out of the box.
-- **Change pad sounds easily**: BROWSE loads a drum or sample onto the selected pad; TUNE, LEVEL and PAN knobs on the screen; EDIT for trim, reverse, one shot or hold, and mute groups (it shows which pads are in each group). LOOP on the main screen makes a pad loop (tap on / tap off, or while held). A playhead on the main screen shows what part of the sound is playing.
-- **Pad effects**: filter (darker / thinner), drive and reverb on any pad. They're knobs on the main screen and work live, so you can turn them while you play.
-- **Hold-and-tap functions** like an MPC: hold CLEAR or COPY and tap pads (tap the button once to lock it on).
-- **UNDO**: takes back the last change, whether a recording, CLEAR, COPY, a loaded sound, an EDIT or slices put on pads. The button shows what it will undo.
-- **Sequencer**: record what you play into a 1, 2 or 4 bar loop with count-in, metronome, timing correct, swing, undo and erase. Set the tempo with the BPM knob or tap it in with TAP. While it plays, hold a pad to mute its recorded part.
-- **Note Repeat**: turn on REPEAT in SEQ, then hold a pad for rolls at 1/4 to 1/32, including triplets.
-- **16 Levels**: spread one sound across all 16 pads at different pitches.
-- **Kits**: save and load whole setups, including their sequences. Recorded and sampled sounds are saved with the kit.
-- Works on iPhone and iPad, in portrait and landscape. One app covers both.
+Laid out like the Akai MPC Sample, with the same keys and names. **[Read the manual](MANUAL.md)** for how everything works.
+
+- **8 banks × 16 pads** (A–H), with a drum kit on bank A and five factory kits to start from.
+- **Sample your own songs**: songs stored on your iPhone (not Apple Music streams) or from the Files app. Change the pitch without changing the speed, then chop into even slices, at every hit, by hand, or with TAP CHOP while the song plays.
+- **Record sounds** from the mic or an audio interface, or resample ChopPad itself. SAMPLE RECALL catches the last 30 seconds you played.
+- **Shape each pad** on the SAMPLE screen's pages: TRIM (start, end, loop point), MIX (level, pan, reverb), AMP (attack, decay, release), TUNE (semitones, cents, WARP to the tempo) and FILTER (classic MPC low-pass, low/high/band-pass, cutoff, resonance).
+- **Sequencer**: 128 sequences up to 64 bars, count-in, metronome, time correct, swing, note repeat with triplets, song mode, and resample a sequence onto a pad.
+- **PAD FX**: 16 effects over the whole beat, played from the pads (filters, bit crush, vinyl, echo, stutters, gates, reverse, tape stop).
+- **KNOB FX**: vintage, vinyl, tape, delay, filter, pump or compressor, on every pad or on the pads you choose.
+- **16 LEVELS**: one sound across all 16 pads by pitch, velocity or filter.
+- **SHIFT jobs** like the hardware: UNDO/REDO, COPY, half/double sequence, quantize, warp, trim and more.
+- **Kits**: save and load whole projects; your recordings and samples are saved with them.
+- iPhone and iPad, portrait and landscape, in one app.
 
 ## Support
 
