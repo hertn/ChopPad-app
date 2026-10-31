@@ -12,8 +12,8 @@ An MPC-style sampler for iPhone and iPad (iOS 17 or later). Pick a song from you
   <img src="docs/landscape.png" width="640" alt="ChopPad in landscape with the sequencer playing">
 </p>
 <p align="center">
-  <img src="docs/sampler.png" width="220" alt="Sampler: chopping a song into slices">
-  <img src="docs/browse.png" width="220" alt="Browsing sounds to load onto pads">
+  <img src="docs/sampler.png" width="220" alt="CHOP: cutting a song into slices">
+  <img src="docs/browse.png" width="220" alt="SAMPLE SELECT: picking sounds for the pads">
 </p>
 
 ## Install with SideStore
