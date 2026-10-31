@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.22.4",
+          "date": "2026-10-31T11:56:17Z",
+          "localizedDescription": "Chopping a pad's sound no longer saves a duplicate in SAMPLE SELECT → MINE: the slices use the pad's own sample (a new sample is only saved for songs, or if you change PITCH).",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.4/ChopPad.ipa",
+          "size": 1159180,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.3",
           "date": "2026-10-31T11:40:41Z",
           "localizedDescription": "TAP CHOP reworked: it no longer starts playing by itself. Slice 1 starts at the playhead; press play, then hit pad 2 where slice 2 starts, pad 3 for slice 3, and so on (hit a pad again to move its slice). Stopping playback no longer ends it or cuts the sample; press DONE to finish.",
@@ -207,11 +215,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.3",
-      "versionDate": "2026-10-31T11:40:41Z",
-      "versionDescription": "TAP CHOP reworked: it no longer starts playing by itself. Slice 1 starts at the playhead; press play, then hit pad 2 where slice 2 starts, pad 3 for slice 3, and so on (hit a pad again to move its slice). Stopping playback no longer ends it or cuts the sample; press DONE to finish.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.3/ChopPad.ipa",
-      "size": 1159232
+      "version": "0.22.4",
+      "versionDate": "2026-10-31T11:56:17Z",
+      "versionDescription": "Chopping a pad's sound no longer saves a duplicate in SAMPLE SELECT → MINE: the slices use the pad's own sample (a new sample is only saved for songs, or if you change PITCH).",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.4/ChopPad.ipa",
+      "size": 1159180
     }
   ],
   "news": []
