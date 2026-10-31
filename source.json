@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.21.0",
+          "date": "2026-10-31T10:17:06Z",
+          "localizedDescription": "iPad: pads take most of the screen (landscape: full height with keys down both sides; portrait: smaller screen, full-width pads). SHIFT + keys/pads now work with two fingers, and a tap on SHIFT always sticks. SHIFT pads show their settings (COUNT IN ON, 2 BARS, BPM...) and every SHIFT job shows a message in the middle of the screen. Buttons that did nothing are gone. COPY and ERASE stay on and the key reads DONE. ERASE + pad on the SEQ screen removes only that pad's notes. SEQ RECALL catches the whole last loop. RELEASE back to 0 makes the pad ONE SHOT again. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.21.0/ChopPad.ipa",
+          "size": 1160167,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.20.0",
           "date": "2026-10-31T08:08:04Z",
           "localizedDescription": "Big update. 8 pad banks (A-H) and 128 sequences. Keys renamed and regrouped, with SHIFT jobs on keys and pads. SEQ RECORD arms, PLAY records with count-in. SAMPLE screen pages TRIM, MIX, AMP, TUNE (with WARP to the tempo) and FILTER (classic, low/high/band-pass). PAD FX (16 performance effects), KNOB FX, 16 LEVELS by pitch, velocity or filter, song mode, resample a sequence to a pad, SAMPLE RECALL. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
@@ -167,11 +175,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.20.0",
-      "versionDate": "2026-10-31T08:08:04Z",
-      "versionDescription": "Big update. 8 pad banks (A-H) and 128 sequences. Keys renamed and regrouped, with SHIFT jobs on keys and pads. SEQ RECORD arms, PLAY records with count-in. SAMPLE screen pages TRIM, MIX, AMP, TUNE (with WARP to the tempo) and FILTER (classic, low/high/band-pass). PAD FX (16 performance effects), KNOB FX, 16 LEVELS by pitch, velocity or filter, song mode, resample a sequence to a pad, SAMPLE RECALL. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.20.0/ChopPad.ipa",
-      "size": 1131573
+      "version": "0.21.0",
+      "versionDate": "2026-10-31T10:17:06Z",
+      "versionDescription": "iPad: pads take most of the screen (landscape: full height with keys down both sides; portrait: smaller screen, full-width pads). SHIFT + keys/pads now work with two fingers, and a tap on SHIFT always sticks. SHIFT pads show their settings (COUNT IN ON, 2 BARS, BPM...) and every SHIFT job shows a message in the middle of the screen. Buttons that did nothing are gone. COPY and ERASE stay on and the key reads DONE. ERASE + pad on the SEQ screen removes only that pad's notes. SEQ RECALL catches the whole last loop. RELEASE back to 0 makes the pad ONE SHOT again. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.21.0/ChopPad.ipa",
+      "size": 1160167
     }
   ],
   "news": []
