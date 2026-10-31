@@ -1,6 +1,6 @@
 # ChopPad manual
 
-For version 0.21.0. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
+For version 0.22.0. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
 
 **Contents**
 
@@ -115,6 +115,7 @@ Along the bottom are five pages. Each one sets what K1, K2 and K3 do:
 - **ATTACK**: fades the sound in.
 - **DECAY**: fades it out. The switch above the pages chooses whether the fade runs from the **end** of the sound (the usual way) or from the **start**. You can also drag the A and D handles on the waveform.
 - **RELEASE**: the fade after you let go of the pad. It only works when the pad plays **NOTE ON** (while held), so turning it up switches a **ONE SHOT** pad to NOTE ON, and turning it back to 0 makes it ONE SHOT again. If you chose NOTE ON yourself (the second switch, or SHIFT + CHOP), it stays NOTE ON whatever RELEASE is set to.
+- **MONO / POLY** (the third switch): on **POLY**, hitting the pad again lets the earlier hit ring on, so a sample can play over itself. On **MONO**, a new hit cuts off the last one. New pads start on POLY; kits saved before version 0.22.0 open on MONO, so they sound as they did. Looping pads always act as MONO. To make *different* pads cut each other off, use a mute group (tap the waveform).
 
 ### TUNE
 - **SEMI**: pitch in semitones (±24).
@@ -274,5 +275,5 @@ Open your kits with **SHIFT + SAMPLE SELECT** (SAVE), **SHIFT + pad 16** (KITS),
 
 - **No pressure on the pads.** Phone screens can't feel how hard you hit, so pads always play at full level. Use 16 LEVELS VELOCITY for soft and loud hits, and K1 (DEPTH) for how strong PAD FX are.
 - **No fader or data wheel.** Use the knobs, − / +, and tap any number to type it.
-- **Not on ChopPad (yet):** step editing, MIDI, recording knob moves into the sequence, pad link, and mono/poly per pad.
+- **Not on ChopPad (yet):** step editing, MIDI, recording knob moves into the sequence, and pad link.
 - **Extras:** sampling songs straight from your music library, TAP CHOP, the built-in instruments and ChopPad Records.
