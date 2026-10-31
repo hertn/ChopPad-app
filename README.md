@@ -53,7 +53,7 @@ ChopPad is free, with no ads or subscriptions. If you enjoy it, you can [buy me 
 
 ## Credits
 
-Made by [hertn](https://github.com/hertn). ChopPad is built with Claude, Anthropic's AI: hertn designs and tests the app, Claude writes the code. The version number and credits are in the app under KITS → About ChopPad.
+Made by [hertn](https://github.com/hertn). ChopPad is built with Claude, Anthropic's AI: hertn designs and tests the app, Claude writes the code. The version number and credits are in the app under kits (SHIFT + SAMPLE SELECT) → About ChopPad.
 
 Inspired by Akai MPC samplers; not affiliated with Akai Professional.
 
