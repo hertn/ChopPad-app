@@ -1,6 +1,6 @@
 # ChopPad manual
 
-For version 0.22.4. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
+For version 0.22.5. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
 
 **Contents**
 
@@ -105,6 +105,8 @@ Along the bottom are five pages. Each one sets what K1, K2 and K3 do:
 ### TRIM
 - **START** and **END**: which part of the sound plays.
 - **LOOP**: where a looping pad jumps back to. Turned fully left it shows **LOCK**: the loop goes back to START.
+
+The TRIM knobs turn more finely than the others, so you can set START and END precisely; on a long sample, drag a few times to go from one end to the other.
 
 ### MIX
 - **LEVEL**: volume.
