@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.22.5",
+          "date": "2026-10-31T12:05:43Z",
+          "localizedDescription": "The TRIM knobs (START, END, LOOP) are four times finer, for precise trimming.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.5/ChopPad.ipa",
+          "size": 1158836,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.4",
           "date": "2026-10-31T11:56:17Z",
           "localizedDescription": "Chopping a pad's sound no longer saves a duplicate in SAMPLE SELECT → MINE: the slices use the pad's own sample (a new sample is only saved for songs, or if you change PITCH).",
@@ -215,11 +223,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.4",
-      "versionDate": "2026-10-31T11:56:17Z",
-      "versionDescription": "Chopping a pad's sound no longer saves a duplicate in SAMPLE SELECT → MINE: the slices use the pad's own sample (a new sample is only saved for songs, or if you change PITCH).",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.4/ChopPad.ipa",
-      "size": 1159180
+      "version": "0.22.5",
+      "versionDate": "2026-10-31T12:05:43Z",
+      "versionDescription": "The TRIM knobs (START, END, LOOP) are four times finer, for precise trimming.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.5/ChopPad.ipa",
+      "size": 1158836
     }
   ],
   "news": []
