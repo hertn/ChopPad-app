@@ -1,6 +1,6 @@
 # ChopPad manual
 
-For version 0.22.5. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
+For version 0.22.6. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
 
 **Contents**
 
@@ -117,7 +117,7 @@ The TRIM knobs turn more finely than the others, so you can set START and END pr
 - **ATTACK**: fades the sound in.
 - **DECAY**: fades it out. The switch above the pages chooses whether the fade runs from the **end** of the sound (the usual way) or from the **start**. You can also drag the A and D handles on the waveform.
 - **RELEASE**: the fade after you let go of the pad. It only works when the pad plays **NOTE ON** (while held), so turning it up switches a **ONE SHOT** pad to NOTE ON, and turning it back to 0 makes it ONE SHOT again. If you chose NOTE ON yourself (the second switch, or SHIFT + CHOP), it stays NOTE ON whatever RELEASE is set to.
-- **MONO / POLY** (the third switch): on **POLY**, hitting the pad again lets the earlier hit ring on, so a sample can play over itself. On **MONO**, a new hit cuts off the last one. New pads start on POLY; kits saved before version 0.22.0 open on MONO, so they sound as they did. Looping pads always act as MONO. To make *different* pads cut each other off, use a mute group (tap the waveform).
+- **MONO / POLY** (the third switch): on **POLY**, hitting the pad again lets the earlier hit ring on, so a sample can play over itself. On **MONO**, a new hit cuts off the last one. Pads start on MONO; switch a pad to POLY when you want it to play over itself. Looping pads always act as MONO. To make *different* pads cut each other off, use a mute group (tap the waveform).
 
 ### TUNE
 - **SEMI**: pitch in semitones (±24).
