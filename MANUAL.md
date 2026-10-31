@@ -1,6 +1,6 @@
 # ChopPad manual
 
-For version 0.22.2. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
+For version 0.22.3. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
 
 **Contents**
 
@@ -151,7 +151,7 @@ Tap a sound to hear it, then hit the pad it should go on. Press SAMPLE SELECT ag
    - **Regions**: even slices.
    - **Threshold**: a slice at every hit.
    - **Manual**: place the markers yourself; select a slice to SPLIT or MERGE it. **‹ ›** move the playhead a small step left or right without playing anything (zoom in for finer steps); SPLIT then cuts the slice at the playhead, and START / END set the part's edges there.
-   - **TAP CHOP**: the song plays and every pad you hit starts a new slice there. With SNAP on, each cut moves to the nearest hit.
+   - **TAP CHOP**: slice 1 starts at the playhead. Press ▶, then hit **pad 2** where slice 2 should start, **pad 3** for slice 3, and so on (the next pad is outlined). Hit a pad again to move its slice. You can also move the playhead with ‹ › and hit the next pad without playing. Stopping playback doesn't end it; press **DONE** to finish (the last slice runs to the end of the part). With SNAP on, each cut moves to the nearest hit.
 5. The pads under the chop view play the slices (pad 1 = slice 1).
 6. **KEEP** puts the slices on pads in a bank you choose. Or tap a slice and then the pad it should go on.
 
