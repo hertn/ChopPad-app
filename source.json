@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.22.8",
+          "date": "2026-10-31T12:57:41Z",
+          "localizedDescription": "Recording timing: notes land where you heard the beat (ChopPad now allows for headphone and Bluetooth delay), hits just before beat 1 count instead of being dropped, and the count-in numbers match the clicks.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.8/ChopPad.ipa",
+          "size": 1164807,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.7",
           "date": "2026-10-31T12:46:58Z",
           "localizedDescription": "When you start a sequence recording with a count-in, the screen counts down 4, 3, 2, 1 until recording starts.",
@@ -239,11 +247,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.7",
-      "versionDate": "2026-10-31T12:46:58Z",
-      "versionDescription": "When you start a sequence recording with a count-in, the screen counts down 4, 3, 2, 1 until recording starts.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.7/ChopPad.ipa",
-      "size": 1164347
+      "version": "0.22.8",
+      "versionDate": "2026-10-31T12:57:41Z",
+      "versionDescription": "Recording timing: notes land where you heard the beat (ChopPad now allows for headphone and Bluetooth delay), hits just before beat 1 count instead of being dropped, and the count-in numbers match the clicks.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.8/ChopPad.ipa",
+      "size": 1164807
     }
   ],
   "news": []
