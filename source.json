@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.22.1",
+          "date": "2026-10-31T11:21:10Z",
+          "localizedDescription": "Chop screen fixes: moving the playhead no longer starts the whole song (it only carries on if the song was playing). The ‹ › nudge buttons now move the selected cut a visible step at the current zoom.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.1/ChopPad.ipa",
+          "size": 1161036,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.0",
           "date": "2026-10-31T11:02:23Z",
           "localizedDescription": "MONO / POLY per pad: on POLY a pad's hits ring over each other, so a sample can play over itself; MONO cuts the last hit. Switch on the SAMPLE screen's AMP page. New pads start on POLY; kits saved before this open on MONO so they sound the same. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
@@ -183,11 +191,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.0",
-      "versionDate": "2026-10-31T11:02:23Z",
-      "versionDescription": "MONO / POLY per pad: on POLY a pad's hits ring over each other, so a sample can play over itself; MONO cuts the last hit. Switch on the SAMPLE screen's AMP page. New pads start on POLY; kits saved before this open on MONO so they sound the same. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.0/ChopPad.ipa",
-      "size": 1160842
+      "version": "0.22.1",
+      "versionDate": "2026-10-31T11:21:10Z",
+      "versionDescription": "Chop screen fixes: moving the playhead no longer starts the whole song (it only carries on if the song was playing). The ‹ › nudge buttons now move the selected cut a visible step at the current zoom.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.1/ChopPad.ipa",
+      "size": 1161036
     }
   ],
   "news": []
