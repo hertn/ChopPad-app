@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.22.3",
+          "date": "2026-10-31T11:40:41Z",
+          "localizedDescription": "TAP CHOP reworked: it no longer starts playing by itself. Slice 1 starts at the playhead; press play, then hit pad 2 where slice 2 starts, pad 3 for slice 3, and so on (hit a pad again to move its slice). Stopping playback no longer ends it or cuts the sample; press DONE to finish.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.3/ChopPad.ipa",
+          "size": 1159232,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.2",
           "date": "2026-10-31T11:28:26Z",
           "localizedDescription": "Chop screen: the ‹ › buttons now move the playhead a small step left or right without playing anything. SPLIT, START and END then cut at the playhead.",
@@ -199,11 +207,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.2",
-      "versionDate": "2026-10-31T11:28:26Z",
-      "versionDescription": "Chop screen: the ‹ › buttons now move the playhead a small step left or right without playing anything. SPLIT, START and END then cut at the playhead.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.2/ChopPad.ipa",
-      "size": 1159810
+      "version": "0.22.3",
+      "versionDate": "2026-10-31T11:40:41Z",
+      "versionDescription": "TAP CHOP reworked: it no longer starts playing by itself. Slice 1 starts at the playhead; press play, then hit pad 2 where slice 2 starts, pad 3 for slice 3, and so on (hit a pad again to move its slice). Stopping playback no longer ends it or cuts the sample; press DONE to finish.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.3/ChopPad.ipa",
+      "size": 1159232
     }
   ],
   "news": []
