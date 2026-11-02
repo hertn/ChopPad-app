@@ -1,4 +1,10 @@
-# ChopPad
+<p align="center">
+  <img src="docs/icon-rounded.svg" width="96" height="96" alt="ChopPad icon">
+</p>
+
+<h1 align="center">ChopPad</h1>
+
+<p align="center"><i>Chop songs into pads and make beats on your iPhone.</i></p>
 
 <p align="center">
   <a href="https://github.com/hertn/ChopPad-app/releases/latest"><img src="https://img.shields.io/github/v/release/hertn/ChopPad-app?style=flat&amp;labelColor=15181e&amp;color=2ea44f&amp;label=version" alt="Latest version"></a>
