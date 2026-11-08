@@ -55,6 +55,16 @@ With SHIFT held on the SAMPLE screen: **B1 LOOP LOCK** (the loop goes back to ST
 
 To save the trimmed part of a pad as its own sample, press **SHIFT + SAMPLE SELECT** (SAVE SAMPLE), name it, then press **B3 DO IT**. It goes into MINE.
 
+## Picking the part of a song
+
+A song longer than 30 seconds (from SONGS or FILES) opens in **PICK PART** first, so you can choose the part to sample before chopping.
+
+1. Press **PLAY** to listen; the white line is the playhead. Turn the wheel (SHIFT: finer) or tap the waveform to move it.
+2. Press **B1 START HERE** and **B2 END HERE** at the playhead, or set **K1 START** and **K2 END** directly. **K3 MOVE** slides the whole part along the song.
+3. Press **B3 CHOP IT**. Only that part opens in CHOP, and only that part is saved when you put it on the pads.
+
+Shorter sounds go straight onto the selected pad.
+
 ## Chopping
 
 1. Select a pad with a sound (or an empty pad, then pick a song) and press **CHOP**.
