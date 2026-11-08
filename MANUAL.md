@@ -41,7 +41,7 @@ On iPad the pads get most of the room:
 
 Messages about what just happened (for example "COUNT IN ON" or "COPIED A1 → A2") appear for a moment in the middle of the screen, on every page.
 
-Keys react as soon as you touch them, like real buttons. You can hold several keys and pads at once. Many keys have a second job, which you get with SHIFT (see [section 4](#4-shift)).
+Keys react as soon as you touch them, like real buttons, and pads, keys and knobs give a tap you can feel (knobs click as they turn, with a firmer click at each end). You can hold several keys and pads at once. Many keys have a second job, which you get with SHIFT (see [section 4](#4-shift)).
 
 ## 2. Quick start: your first beat
 
@@ -245,7 +245,7 @@ Press **KNOB FX**. One effect for the kit, with two settings on K1 and K2 and th
 
 A kit is everything: all 8 banks of pads with their settings, the 128 sequences, the song and the KNOB FX. Your own recordings and samples are saved with it.
 
-Open your kits with **SHIFT + SAMPLE SELECT** (SAVE), **SHIFT + pad 16** (KITS), or by tapping the kit's name on the screen. There you can save under a name, load a kit, or start from a factory kit: **Default**, **Soul Session**, **Jazz Club**, **Keys & Strings** and **Organ Trio**. The last row, **About ChopPad**, shows the version.
+Open your kits with **SHIFT + SAMPLE SELECT** (SAVE), **SHIFT + pad 16** (KITS), or by tapping the kit's name on the screen. There you can save under a name, load a kit, or start from a factory kit: **Default**, **Soul Session**, **Jazz Club**, **Keys & Strings** and **Organ Trio**. The last row, **About ChopPad**, shows the version; **SHIFT + PAD FX** opens the same About page straight away.
 
 **UNDO and REDO** (SHIFT + − and SHIFT + +) take back and redo the last changes: recordings, erases, copies, loaded sounds, edits.
 
@@ -255,7 +255,7 @@ Open your kits with **SHIFT + SAMPLE SELECT** (SAVE), **SHIFT + pad 16** (KITS),
 | --- | --- | --- |
 | SAMPLE | SAMPLE screen; hold + pad selects without playing | INPUT CONFIG (opens SAMPLE RECORD) |
 | SEQ | SEQ screen; ERASE + pad here erases notes only | |
-| PAD FX | PAD FX screen | |
+| PAD FX | PAD FX screen | ABOUT |
 | KNOB FX | KNOB FX screen | FX SELECT: next effect |
 | CHOP | Chop the selected pad's sound | NOTE ON / ONE SHOT |
 | MUTE | Mute mode | UNMUTE ALL |
