@@ -42,7 +42,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 Laid out like a classic hardware sampler, with the pads front and centre. **[Read the manual](MANUAL.md)** for how everything works.
 
 - **8 banks × 16 pads** (A–H), with a drum kit on bank A and five factory kits to start from.
-- **Sample your own songs**: songs stored on your iPhone (not Apple Music streams) or from the Files app. Change the pitch without changing the speed, then chop into even slices, at every hit, by hand, or with TAP CHOP while the song plays.
+- **Sample your own songs**: songs stored on your iPhone (not Apple Music streams) or from the Files app. Change the pitch without changing the speed, then chop into even slices, at every hit, or by tapping pads while the song plays (Manual).
 - **Record sounds** from the mic or an audio interface, or resample ChopPad itself. SAMPLE RECALL catches the last 30 seconds you played.
 - **Shape each pad** on the SAMPLE screen's pages: TRIM (start, end, loop point), MIX (level, pan, reverb), AMP (attack, decay, release), TUNE (semitones, cents, WARP to the tempo) and FILTER (classic low-pass, low/high/band-pass, cutoff, resonance).
 - **Sequencer**: 128 sequences up to 64 bars, count-in, metronome, time correct, swing, note repeat with triplets, song mode, and resample a sequence onto a pad.
