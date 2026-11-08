@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.23.0",
+          "date": "2026-11-08T09:47:31Z",
+          "localizedDescription": "Chop screen: Manual chop by tapping pads (pad k marks where slice k ends; hit a pad again to play on from its mark for a redo), UNDO button, SPLIT/TAP CHOP/DONE/PART removed, one play button.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.23.0/ChopPad.ipa",
+          "size": 1161096,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.22.8",
           "date": "2026-10-31T12:57:41Z",
           "localizedDescription": "Recording timing: notes land where you heard the beat (ChopPad now allows for headphone and Bluetooth delay), hits just before beat 1 count instead of being dropped, and the count-in numbers match the clicks.",
@@ -247,11 +255,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.22.8",
-      "versionDate": "2026-10-31T12:57:41Z",
-      "versionDescription": "Recording timing: notes land where you heard the beat (ChopPad now allows for headphone and Bluetooth delay), hits just before beat 1 count instead of being dropped, and the count-in numbers match the clicks.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.22.8/ChopPad.ipa",
-      "size": 1164807
+      "version": "0.23.0",
+      "versionDate": "2026-11-08T09:47:31Z",
+      "versionDescription": "Chop screen: Manual chop by tapping pads (pad k marks where slice k ends; hit a pad again to play on from its mark for a redo), UNDO button, SPLIT/TAP CHOP/DONE/PART removed, one play button.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.23.0/ChopPad.ipa",
+      "size": 1161096
     }
   ],
   "news": []
