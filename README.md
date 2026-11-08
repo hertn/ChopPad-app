@@ -48,6 +48,7 @@ Laid out like a classic hardware sampler, with the pads front and centre. **[Rea
 - **Sequencer**: 128 sequences up to 64 bars, count-in, metronome, time correct, swing, note repeat with triplets, song mode, and resample a sequence onto a pad.
 - **PAD FX**: 16 effects over the whole beat, played from the pads (filters, bit crush, vinyl, echo, stutters, gates, reverse, tape stop).
 - **KNOB FX**: vintage, vinyl, tape, delay, filter, pump or compressor, on every pad or on the pads you choose.
+- **Haptics**: pads, keys and knobs tap back; knobs click as they turn.
 - **16 LEVELS**: one sound across all 16 pads by pitch, velocity or filter.
 - **SHIFT jobs** that show their settings on the pads: UNDO/REDO, COPY, half/double sequence, quantize, warp, trim and more.
 - **Kits**: save and load whole projects; your recordings and samples are saved with them.
