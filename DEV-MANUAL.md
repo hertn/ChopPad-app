@@ -61,7 +61,8 @@ A song longer than 30 seconds (from SONGS or FILES) opens in **PICK PART** first
 
 1. Press **PLAY** to listen; the white line is the playhead. Turn the wheel (SHIFT: finer) or tap the waveform to move it.
 2. Press **B1 START HERE** and **B2 END HERE** at the playhead, or set **K1 START** and **K2 END** directly. **K3 MOVE** slides the whole part along the song.
-3. Press **B3 CHOP IT**. Only that part opens in CHOP, and only that part is saved when you put it on the pads.
+3. To zoom in, pinch the waveform, or hold SHIFT and turn K1, K2 or K3 to zoom around START, END or the playhead. Drag sideways to scroll while zoomed, and tap **ALL** to see the whole song again. The wheel moves the playhead in finer steps the closer you zoom.
+4. Press **B3 CHOP IT**. Only that part opens in CHOP, and only that part is saved when you put it on the pads.
 
 Shorter sounds go straight onto the selected pad.
 
