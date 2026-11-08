@@ -1,6 +1,6 @@
 # ChopPad manual
 
-For version 0.22.8. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
+For version 0.23.0. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
 
 **Contents**
 
@@ -148,13 +148,12 @@ Tap a sound to hear it, then hit the pad it should go on. Press SAMPLE SELECT ag
 
 1. **Pick a song** from your music library (songs stored on the device, not Apple Music streams) or from the Files app, or one of the ChopPad Records. Press ▶ in the list to listen first.
 2. **PITCH**: make the song higher or lower without changing its speed.
-3. **Choose the part** to chop, with START and END. Pinch to zoom, drag to scroll. **LOOP** repeats it so you can hear if it loops cleanly.
+3. **Choose the part** to chop, with START and END. Pinch to zoom, drag to scroll. There is one play button, **▶**: it plays from the playhead. **UNDO** takes back your last change (a mark, MERGE, CLEAR, a new chop type, START / END or a dragged marker).
 4. **Chop it** in one of these ways:
    - **Regions**: even slices.
    - **Threshold**: a slice at every hit.
-   - **Manual**: place the markers yourself; select a slice to SPLIT or MERGE it. **‹ ›** move the playhead a small step left or right without playing anything (zoom in for finer steps); SPLIT then cuts the slice at the playhead, and START / END set the part's edges there.
-   - **TAP CHOP**: slice 1 starts at the playhead. Press ▶, then hit **pad 2** where slice 2 should start, **pad 3** for slice 3, and so on (the next pad is outlined). Hit a pad again to move its slice. You can also move the playhead with ‹ › and hit the next pad without playing. Stopping playback doesn't end it; press **DONE** to finish (the last slice runs to the end of the part). With SNAP on, each cut moves to the nearest hit.
-5. The pads under the chop view play the slices (pad 1 = slice 1).
+   - **Manual**: chop by tapping the pads. Picking Manual starts a new chop: slice 1 starts at the playhead and nothing plays yet. Press ▶, then hit **pad 1** where slice 1 should end, **pad 2** where slice 2 should end, and so on (the next pad is outlined); the last slice runs to the end of the part. While the song plays, hit a pad that already has its mark to play on from that mark again, so if you miss your cue for the next pad you get a redo. Stopped, that pad plays its slice. **‹ ›** move the playhead a small step without playing (zoom in for finer steps), so you can also mark with the song stopped. With SNAP on, each mark moves to the nearest hit. Drag a marker to fine-tune it, select a slice to **MERGE** it into the one before, **CLEAR** to start over.
+5. The pads under the chop view play the slices (pad 1 = slice 1) when you aren't marking.
 6. **KEEP** puts the slices on pads in a bank you choose. Or tap a slice and then the pad it should go on. A chopped song is saved as a new sample in SAMPLE SELECT → MINE. A pad's sound you chopped with CHOP is not copied: the slices use the same sample (unless you changed PITCH).
 
 The chop screen remembers where you were when you come back.
@@ -278,4 +277,4 @@ Open your kits with **SHIFT + SAMPLE SELECT** (SAVE), **SHIFT + pad 16** (KITS),
 - **No pressure on the pads.** Phone screens can't feel how hard you hit, so pads always play at full level. Use 16 LEVELS VELOCITY for soft and loud hits, and K1 (DEPTH) for how strong PAD FX are.
 - **No fader or data wheel.** Use the knobs, − / +, and tap any number to type it.
 - **Not on ChopPad (yet):** step editing, MIDI, recording knob moves into the sequence, and pad link.
-- **Extras:** sampling songs straight from your music library, TAP CHOP, the built-in instruments and ChopPad Records.
+- **Extras:** sampling songs straight from your music library, Manual chopping by tapping pads, the built-in instruments and ChopPad Records.
