@@ -292,6 +292,38 @@
       "versionDescription": "Haptic feedback on pads, keys and knobs (knobs click as they turn). SHIFT + PAD FX opens About.",
       "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.25.0/ChopPad.ipa",
       "size": 1186752
+    },
+    {
+      "developerName": "hertn",
+      "iconURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/icon.png",
+      "tintColor": "#FF6B1F",
+      "category": "entertainment",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "ChopPad reads songs from your music library so you can sample and chop them.",
+          "NSMicrophoneUsageDescription": "ChopPad records sounds from the microphone so you can chop them and put them on pads."
+        }
+      },
+      "name": "ChopPad Dev",
+      "bundleIdentifier": "com.hertniks.choppad.dev",
+      "subtitle": "Experimental build",
+      "localizedDescription": "Dev build of ChopPad with a rebuilt screen and many new features: a screen that shows bars on every page, a chop page, step edit, filter envelope, pad link, flex beat, fader with automation, time signatures, time-stretch warp, audio looper. Installs next to the normal ChopPad with its own separate data. Experimental: expect rough edges.",
+      "versions": [
+        {
+          "version": "0.25.0",
+          "date": "2026-11-08T14:39:54Z",
+          "localizedDescription": "Dev build of ChopPad with a rebuilt screen and many new features: a screen that shows bars on every page, a chop page, step edit, filter envelope, pad link, flex beat, fader with automation, time signatures, time-stretch warp, audio looper. Installs next to the normal ChopPad with its own separate data. Experimental: expect rough edges.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/dev-0.25.0/ChopPad-Dev.ipa",
+          "size": 1336506,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "version": "0.25.0",
+      "versionDate": "2026-11-08T14:39:54Z",
+      "versionDescription": "Dev build of ChopPad with a rebuilt screen and many new features: a screen that shows bars on every page, a chop page, step edit, filter envelope, pad link, flex beat, fader with automation, time signatures, time-stretch warp, audio looper. Installs next to the normal ChopPad with its own separate data. Experimental: expect rough edges.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/dev-0.25.0/ChopPad-Dev.ipa",
+      "size": 1336506
     }
   ],
   "news": []
