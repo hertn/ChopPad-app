@@ -1,6 +1,6 @@
 # ChopPad manual
 
-For version 0.23.1. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
+For version 0.23.2. ChopPad is laid out like a classic hardware sampler: a screen with keys and knobs, and 16 pads. This manual walks through everything.
 
 **Contents**
 
