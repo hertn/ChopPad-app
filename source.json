@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.25.0",
+          "date": "2026-11-08T12:34:00Z",
+          "localizedDescription": "Haptic feedback on pads, keys and knobs (knobs click as they turn). SHIFT + PAD FX opens About.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.25.0/ChopPad.ipa",
+          "size": 1186752,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.24.0",
           "date": "2026-11-08T11:32:52Z",
           "localizedDescription": "Chop screen is now two steps: TRIM (find the part in a song, ▶ plays the track) and CHOP (works on the sample alone: ⏮ and ▶ play only the sample, LOOP repeats it, ■ shows whenever anything plays). Manual chop keeps the whole part in view and can start on any pad. ‹ › move the selected slice marker (or the playhead). New Samples button to chop a saved recording again. Knobs are half as sensitive.",
@@ -279,11 +287,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.24.0",
-      "versionDate": "2026-11-08T11:32:52Z",
-      "versionDescription": "Chop screen is now two steps: TRIM (find the part in a song, ▶ plays the track) and CHOP (works on the sample alone: ⏮ and ▶ play only the sample, LOOP repeats it, ■ shows whenever anything plays). Manual chop keeps the whole part in view and can start on any pad. ‹ › move the selected slice marker (or the playhead). New Samples button to chop a saved recording again. Knobs are half as sensitive.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.24.0/ChopPad.ipa",
-      "size": 1183157
+      "version": "0.25.0",
+      "versionDate": "2026-11-08T12:34:00Z",
+      "versionDescription": "Haptic feedback on pads, keys and knobs (knobs click as they turn). SHIFT + PAD FX opens About.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.25.0/ChopPad.ipa",
+      "size": 1186752
     }
   ],
   "news": []
