@@ -311,6 +311,14 @@
       "localizedDescription": "Dev build of ChopPad with a rebuilt screen and many new features: a screen that shows bars on every page, a chop page, step edit, filter envelope, pad link, flex beat, fader with automation, time signatures, time-stretch warp, audio looper. Installs next to the normal ChopPad with its own separate data. Experimental: expect rough edges.",
       "versions": [
         {
+          "version": "0.35.1",
+          "date": "2026-11-08T20:51:05Z",
+          "localizedDescription": "Hardware-panel controls that follow the hardware manual. PICK PART screen to choose the part of a song before chopping (zoom, wheel, START/END). Manual chop with PLAY and the data wheel, chop undo/redo, live level and pan, pitch-only tune, reverb knob, tappable NOTE ON/REV/LOOP/16, SHIFT turns off on release. Landscape fills the screen (notch on the left only) with bigger pads. See DEV-MANUAL.md.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/dev-0.35.1/ChopPad-Dev.ipa",
+          "size": 1136436,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.25.0",
           "date": "2026-11-08T14:39:54Z",
           "localizedDescription": "Dev build of ChopPad with a rebuilt screen and many new features: a screen that shows bars on every page, a chop page, step edit, filter envelope, pad link, flex beat, fader with automation, time signatures, time-stretch warp, audio looper. Installs next to the normal ChopPad with its own separate data. Experimental: expect rough edges.",
@@ -319,11 +327,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.25.0",
-      "versionDate": "2026-11-08T14:39:54Z",
-      "versionDescription": "Dev build of ChopPad with a rebuilt screen and many new features: a screen that shows bars on every page, a chop page, step edit, filter envelope, pad link, flex beat, fader with automation, time signatures, time-stretch warp, audio looper. Installs next to the normal ChopPad with its own separate data. Experimental: expect rough edges.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/dev-0.25.0/ChopPad-Dev.ipa",
-      "size": 1336506
+      "version": "0.35.1",
+      "versionDate": "2026-11-08T20:51:05Z",
+      "versionDescription": "Hardware-panel controls that follow the hardware manual. PICK PART screen to choose the part of a song before chopping (zoom, wheel, START/END). Manual chop with PLAY and the data wheel, chop undo/redo, live level and pan, pitch-only tune, reverb knob, tappable NOTE ON/REV/LOOP/16, SHIFT turns off on release. Landscape fills the screen (notch on the left only) with bigger pads. See DEV-MANUAL.md.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/dev-0.35.1/ChopPad-Dev.ipa",
+      "size": 1136436
     }
   ],
   "news": []

@@ -39,7 +39,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 
 ## ChopPad Dev (experimental)
 
-The same source also has **ChopPad Dev**, an experimental build laid out like a hardware sampler panel: data wheel, fader, B1–B3 keys above the screen, K1–K3 knobs, and everything on one screen. It installs next to ChopPad with its own separate data. **[Read the Dev manual](DEV-MANUAL.md)**, or download [ChopPad-Dev.ipa](https://github.com/hertn/ChopPad-app/releases/download/dev-0.32.4/ChopPad-Dev.ipa).
+The same source also has **ChopPad Dev**, an experimental build laid out like a hardware sampler panel: data wheel, fader, B1–B3 keys above the screen, K1–K3 knobs, and everything on one screen. It installs next to ChopPad with its own separate data. **[Read the Dev manual](DEV-MANUAL.md)**, or download [ChopPad-Dev.ipa](https://github.com/hertn/ChopPad-app/releases/download/dev-0.35.1/ChopPad-Dev.ipa).
 
 ## Features
 
