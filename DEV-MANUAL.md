@@ -2,7 +2,7 @@
 
 ChopPad Dev is the experimental build. It's laid out like a hardware pad sampler: one main screen, three keys above it (B1–B3), three knobs below it (K1–K3), a DATA WHEEL, a fader, and the 16 pads. It installs next to the normal ChopPad with its own separate data.
 
-Every key has a second job printed under it in orange. Hold **SHIFT** (or tap it once to latch it) and press the key to use that second job. With SHIFT on, the pads show their SHIFT jobs too.
+Every key has a second job printed under it in orange. Hold **SHIFT** and press the key (letting go of SHIFT turns it off), or tap SHIFT once to keep it on for the next key, pad or knob. With SHIFT on, the pads show their SHIFT jobs too.
 
 ## The panel
 
@@ -38,19 +38,21 @@ B1–B3 pick the knob page; press a B key again to go to the next page in its gr
 | Page | K1 | K2 | K3 |
 |---|---|---|---|
 | TRIM | START | END | LOOP point (fully left = LOOP LOCK) |
-| MIX | LEVEL | KIT VOL | PAN |
+| MIX | LEVEL | REVERB (SHIFT: KIT VOL) | PAN |
 | AMP | ATTACK | DECAY | RELEASE |
-| TUNE | SEMI (±24) | FINE (±90 cents) | WARP (beats to the tempo, by pitch or time stretch) |
+| TUNE | SEMI (±24, pitch only, the length stays) | FINE (±90 cents) | WARP (beats to the tempo, by pitch or time stretch) |
 | PLAY | POLY / MONO | MUTE GROUP | PAD LINK (SHIFT + knob: link offset) |
 | FILTER | CUTOFF | RESO | TYPE |
 | F-ENV | ATTACK | DECAY | DEPTH |
 
 With SHIFT held on the SAMPLE screen: **B1 LOOP LOCK** (the loop goes back to START) and **B3 NORMALIZE**.
 
+The switches beside the pad's name (NOTE ON, REV, LOOP, 16) can be tapped to turn them on or off. They do the same as SHIFT + CHOP, SHIFT + LOOP, LOOP and 16 LEVELS. LEVEL and PAN (knob or fader) change a sound while it's playing.
+
 ## Loading a sound
 
 1. Select a pad and press **SAMPLE SELECT**.
-2. Pick a folder (DRUMS, KEYS, RECORDS, MINE, SONGS) and a sound. **B2 FILES** opens the Files app, and **B1 BACK** goes up a folder.
+2. The pad the sound will go to stays lit. Pick a folder (DRUMS, KEYS, RECORDS, MINE, SONGS) and a sound. **B2 FILES** opens the Files app, and **B1 BACK** goes up a folder.
 3. The sound goes onto the selected pad.
 
 To save the trimmed part of a pad as its own sample, press **SHIFT + SAMPLE SELECT** (SAVE SAMPLE), name it, then press **B3 DO IT**. It goes into MINE.
@@ -59,9 +61,9 @@ To save the trimmed part of a pad as its own sample, press **SHIFT + SAMPLE SELE
 
 A song longer than 30 seconds (from SONGS or FILES) opens in **PICK PART** first, so you can choose the part to sample before chopping.
 
-1. Press **PLAY** to listen; the white line is the playhead. Turn the wheel (SHIFT: finer) or tap the waveform to move it.
+1. Press **PLAY** to listen; the white line is the playhead. Turn the wheel or tap the waveform to move it.
 2. Press **B1 START HERE** and **B2 END HERE** at the playhead, or set **K1 START** and **K2 END** directly. **K3 MOVE** slides the whole part along the song.
-3. To zoom in, pinch the waveform, or hold SHIFT and turn K1, K2 or K3 to zoom around START, END or the playhead. Drag sideways to scroll while zoomed, and tap **ALL** to see the whole song again. The wheel moves the playhead in finer steps the closer you zoom.
+3. To zoom in, hold SHIFT and turn the wheel (around the playhead), pinch the waveform, or hold SHIFT and turn K1, K2 or K3 to zoom around START, END or the playhead. Drag sideways to scroll while zoomed, and tap **ALL** to see the whole song again. The wheel moves the playhead in finer steps the closer you zoom.
 4. Press **B3 CHOP IT**. Only that part opens in CHOP, and only that part is saved when you put it on the pads.
 
 Shorter sounds go straight onto the selected pad.
