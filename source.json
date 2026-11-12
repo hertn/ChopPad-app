@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.37.1",
+          "date": "2026-11-12T20:30:57Z",
+          "localizedDescription": "Swipe up for home: the first swipe now only shows the home bar, a second swipe leaves the app, so you don't drop out of a beat by accident. The home bar stays visible to make this work.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.1/ChopPad.ipa",
+          "size": 1543105,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.37.0",
           "date": "2026-11-12T19:59:17Z",
           "localizedDescription": "New look: a dark panel with keys colored by group, grey rubber pads lit from underneath in a color that shows what each pad does, and a new jog wheel. Pitch before chopping: set TUNE on a pad, press CHOP, and the slices keep the pitch. Chop fix: a pad now always chops at the playhead, even behind your last chop (it used to be ignored). Yellow playhead, PLAY lights while the sample plays, keys light while pressed. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
@@ -303,11 +311,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.37.0",
-      "versionDate": "2026-11-12T19:59:17Z",
-      "versionDescription": "New look: a dark panel with keys colored by group, grey rubber pads lit from underneath in a color that shows what each pad does, and a new jog wheel. Pitch before chopping: set TUNE on a pad, press CHOP, and the slices keep the pitch. Chop fix: a pad now always chops at the playhead, even behind your last chop (it used to be ignored). Yellow playhead, PLAY lights while the sample plays, keys light while pressed. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.0/ChopPad.ipa",
-      "size": 1543104,
+      "version": "0.37.1",
+      "versionDate": "2026-11-12T20:30:57Z",
+      "versionDescription": "Swipe up for home: the first swipe now only shows the home bar, a second swipe leaves the app, so you don't drop out of a beat by accident. The home bar stays visible to make this work.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.1/ChopPad.ipa",
+      "size": 1543105,
       "screenshots": {
         "iphone": [
           "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/iphone-portrait.png",
