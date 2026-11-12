@@ -15,11 +15,11 @@
 A pad sampler for iPhone and iPad (iOS 17 or later). Pick a song from your music library or record a sound with the mic, chop it into slices, drop them on pads, and make beats with a built-in drum kit and a looping sequencer.
 
 <p align="center">
-  <img src="docs/landscape.png" width="640" alt="ChopPad in landscape with the sequencer playing">
+  <img src="docs/landscape.png" width="640" alt="ChopPad in landscape with a sequence playing">
 </p>
 <p align="center">
-  <img src="docs/sampler.png" width="220" alt="CHOP: cutting a song into slices">
-  <img src="docs/browse.png" width="220" alt="SAMPLE SELECT: picking sounds for the pads">
+  <img src="docs/portrait.png" width="220" alt="The panel in portrait">
+  <img src="docs/chop.png" width="220" alt="CHOP: a record cut into 8 slices">
 </p>
 
 ## Install with SideStore
@@ -37,26 +37,22 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 
 **Direct download:** [ChopPad.ipa (latest)](https://github.com/hertn/ChopPad-app/releases/latest/download/ChopPad.ipa), or see [all releases](https://github.com/hertn/ChopPad-app/releases).
 
-## ChopPad Dev (experimental)
-
-The same source also has **ChopPad Dev**, an experimental build laid out like a hardware sampler panel: data wheel, fader, B1–B3 keys above the screen, K1–K3 knobs, and everything on one screen. It installs next to ChopPad with its own separate data. **[Read the Dev manual](DEV-MANUAL.md)**, or download [ChopPad-Dev.ipa](https://github.com/hertn/ChopPad-app/releases/download/dev-0.35.1/ChopPad-Dev.ipa).
-
 ## Features
 
-Laid out like a classic hardware sampler, with the pads front and centre. **[Read the manual](MANUAL.md)** for how everything works.
+Laid out like a hardware pad sampler, with the pads front and centre. **[Read the manual](MANUAL.md)** for how everything works.
 
+- **A hardware-style panel**: one main screen with B1–B3 keys above it and K1–K3 knobs below, a DATA WHEEL, a FADER and 16 square pads. Recording, kits, chopping and the song list are all pages of the one screen.
 - **8 banks × 16 pads** (A–H), with a drum kit on bank A and five factory kits to start from.
-- **Sample your own songs**: songs stored on your iPhone (not Apple Music streams) or from the Files app. Change the pitch without changing the speed, then chop into even slices, at every hit, or by tapping pads while the song plays (Manual).
-- **Record sounds** from the mic or an audio interface, or resample ChopPad itself. SAMPLE RECALL catches the last 30 seconds you played.
-- **Shape each pad** on the SAMPLE screen's pages: TRIM (start, end, loop point), MIX (level, pan, reverb), AMP (attack, decay, release), TUNE (semitones, cents, WARP to the tempo) and FILTER (classic low-pass, low/high/band-pass, cutoff, resonance).
-- **Sequencer**: 128 sequences up to 64 bars, count-in, metronome, time correct, swing, note repeat with triplets, song mode, and resample a sequence onto a pad.
-- **PAD FX**: 16 effects over the whole beat, played from the pads (filters, bit crush, vinyl, echo, stutters, gates, reverse, tape stop).
+- **Sample your own songs**: songs stored on your iPhone (not Apple Music streams) or from the Files app. Pick the part of a long song first, change the pitch without changing the speed, then chop at every hit, into 4, 8 or 16 even regions, or live: hit any pad and the song plays, and each slice lands on the pad you hit.
+- **Record sounds** from the mic or an audio interface, or resample ChopPad itself, free or exactly one sequence long. SAMPLE RECALL catches the last 30 seconds you played.
+- **Shape each pad**: TRIM (start, end, loop point), MIX (level, reverb, pan), AMP (attack, decay, release), TUNE (semitones, cents, WARP to the tempo by pitch or time stretch), PLAY (mono/poly, mute group, pad link), FILTER and a filter envelope.
+- **Sequencer**: 128 sequences up to 128 bars, time signatures, count-in, metronome, swing, rec quantize and time correct, step edit, half/double speed, note repeat with triplets, song mode, fader automation, and resample a sequence onto a pad.
+- **PAD FX**: 16 effects over the whole beat, played from the pads, plus FLEX BEAT for beat-repeat style effects.
 - **KNOB FX**: vintage, vinyl, tape, delay, filter, pump or compressor, on every pad or on the pads you choose.
-- **Haptics**: pads, keys and knobs tap back; knobs click as they turn.
 - **16 LEVELS**: one sound across all 16 pads by pitch, velocity or filter.
-- **SHIFT jobs** that show their settings on the pads: UNDO/REDO, COPY, half/double sequence, quantize, warp, trim and more.
 - **Kits**: save and load whole projects; your recordings and samples are saved with them.
-- iPhone and iPad, portrait and landscape, in one app; on iPad the pads take most of the screen.
+- **Haptics**: pads, keys and knobs tap back.
+- iPhone and iPad, portrait and landscape, in one app.
 
 ## Support
 
@@ -64,7 +60,7 @@ ChopPad is free, with no ads or subscriptions. If you enjoy it, you can [buy me 
 
 ## Credits
 
-Made by [hertn](https://github.com/hertn). ChopPad is built with Claude, Anthropic's AI: hertn designs and tests the app, Claude writes the code. The version number and credits are in the app under kits (SHIFT + SAMPLE SELECT) → About ChopPad.
+Made by [hertn](https://github.com/hertn). ChopPad is built with Claude, Anthropic's AI: hertn designs and tests the app, Claude writes the code. The version number and credits are in the app under kits (SHIFT + pad 16) → ABOUT.
 
 ## License
 
