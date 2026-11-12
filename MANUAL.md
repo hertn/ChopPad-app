@@ -1,21 +1,23 @@
 # ChopPad manual
 
-For version 0.36.0. ChopPad is laid out like a hardware pad sampler: one main screen with three keys above it (B1–B3) and three knobs below it (K1–K3), a DATA WHEEL, a FADER, and 16 pads. Everything happens on the one screen: recording, kits, chopping and the song list are pages of it, not separate windows.
+For version 0.37.0. ChopPad is laid out like a hardware pad sampler: one main screen with three keys above it (B1–B3) and three knobs below it (K1–K3), a DATA WHEEL, a FADER, and 16 pads. Everything happens on the one screen: recording, kits, chopping and the song list are pages of it, not separate windows.
 
 ## The layout
 
 **iPhone, portrait** (top to bottom):
 
-- The **FADER** on the left of the screen. **B1–B3** above the screen choose what the screen's page shows; their names change with the page.
+- The **FADER** on the left of the screen. **B1–B3** above the screen choose what the screen's page shows; their names change with the page. The knobs **K1–K3** sit under the screen.
 - On the right of the screen: **SAMPLE SELECT**, **TAP TEMPO**, the **DATA WHEEL** and **− / +**.
-- **MODE keys** (SAMPLE, SEQ, PAD FX, KNOB FX), the knobs **K1–K3**, and the **PAD PLAY keys** (CHOP, MUTE, LOOP, 16 LEVELS).
-- **SHIFT, PAD BANK, ERASE, NOTE REPEAT**.
-- **SAMPLE RECORD, SEQ RECORD, STOP, PLAY**.
+- Two rows of keys. Top: ERASE, NOTE REPEAT, SAMPLE, SEQ, CHOP, MUTE, SAMPLE RECORD, SEQ RECORD. Bottom: **SHIFT**, PAD BANK, PAD FX, KNOB FX, LOOP, 16 LEVELS, STOP, PLAY. SHIFT is always bottom left, under your left thumb.
 - The **16 pads**, square, across the full width, numbered 1–16 from the bottom left.
 
-**iPhone, landscape** (with the notch on the left): SHIFT, PAD BANK, the FADER, ERASE and NOTE REPEAT run down the left edge, the screen with everything around it is in the middle, and the pads fill the right side from top to bottom.
+**iPhone, landscape:** the screen with everything around it and the two rows of keys on the left, the pads filling the right side from top to bottom.
 
-**iPad**: the same keys, arranged to fill the bigger screen with square pads. Portrait: the screen, keys and knobs across the top, then SHIFT, PAD BANK, the FADER, ERASE and NOTE REPEAT down the left of the pads. Landscape: SHIFT, PAD BANK, the FADER, ERASE and NOTE REPEAT down the left, then the screen with SAMPLE SELECT, TAP TEMPO, the wheel and − / + beside it, the MODE keys, knobs and PAD PLAY keys, and the transport row, with the square pads on the right. The status bar is hidden on iPad.
+**iPad, portrait:** across the top, the 16 keys in a block on the left (MODE and PAD PLAY keys above, SHIFT, PAD BANK, ERASE, NOTE REPEAT and the transport keys below), the screen with B1–B3 and the knobs in the middle, and SAMPLE SELECT, TAP TEMPO, the FADER, the wheel and − / + on the right. The pads fill the width below.
+
+**iPad, landscape:** the pads fill the right side. On the left, top to bottom: B1–B3, the screen, the knobs, a row with the FADER, SAMPLE SELECT, TAP TEMPO, the wheel and − / +, then the block of 16 keys with SHIFT bottom left. The status bar is hidden on iPad.
+
+**Colors:** keys that belong together share a color: the MODE keys violet, the PAD PLAY keys blue, SAMPLE SELECT, TAP TEMPO and − / + teal, the RECORD keys red, STOP and PLAY light grey (PLAY turns green while playing), SHIFT light grey. A key lights up while you press it. The pads are grey rubber with a light under them that shows what they do: the bank's color for a pad with a sound (none when empty), bright when hit; white for the pad SAMPLE SELECT will fill; violet for chop slices; yellow (unmuted) and red (muted) in MUTE; green for sequences; warm white for a SHIFT setting that is on.
 
 Keys react as soon as you touch them, like real buttons, and you can hold several keys and pads at once. Messages about what just happened (for example "COPIED A1 → A2") appear for a moment in the middle of the screen.
 
@@ -94,7 +96,7 @@ To save the trimmed part of a pad as its own sample, press **SHIFT + SAMPLE SELE
 
 A song longer than 30 seconds (from SONGS or FILES) opens in **PICK PART** first, so you can choose the part to sample before chopping.
 
-1. Press **PLAY** to listen; the white line is the playhead. Turn the wheel or tap the waveform to move it.
+1. Press **PLAY** to listen; the yellow line is the playhead. Turn the wheel or tap the waveform to move it.
 2. Press **B1 START HERE** and **B2 END HERE** at the playhead, or set **K1 START** and **K2 END** directly. **K3 MOVE** slides the whole part along the song.
 3. To zoom in, hold SHIFT and turn the wheel (around the playhead), pinch the waveform, or hold SHIFT and turn K1, K2 or K3 to zoom around START, END or the playhead. Drag sideways to scroll while zoomed, and tap **ALL** to see the whole song again. The wheel moves the playhead in finer steps the closer you zoom.
 4. Press **B3 CHOP IT**. Only that part opens in CHOP, and only that part is saved when you put it on the pads.
@@ -105,14 +107,18 @@ Shorter sounds go straight onto the selected pad.
 
 1. Select a pad with a sound (or an empty pad, then pick a song) and press **CHOP**.
 2. It opens in MANUAL, ready to chop live on the pads (see below). Turn **K3** for another type: THRESHOLD (at every hit), REGIONS 4 / 8 / 16 (even slices) or MANUAL.
-3. Tap a pad to hear its slice. **B1 EXTRACT** copies the selected slice to the first empty pad, **B2 SPLIT** cuts it in two, and **B3 MERGE** joins it with the next. Hold ERASE and tap a pad to remove that slice.
+3. Tap a pad to hear its slice. **B1 EXTRACT** copies the selected slice to the first empty pad, **B2 SPLIT** cuts it in two, and **B3 MERGE** joins it with the one before. Hold ERASE and tap a pad to remove that slice.
 4. Tap **→ PADS** to put every slice on the pads of the current bank, from pad 1 up (in MANUAL, from the first pad you hit). This replaces what's on those pads.
 
+**Pitch before chopping:** set the pitch on the pad first (TUNE page, K1 SEMI and K2 FINE), then press CHOP. The pitch shows next to the name on the CHOP screen, you chop at that pitch, and the slices keep it: their sound is saved pitched, so their own TUNE starts at 0.
+
 **MANUAL (lazy chop):**
-1. Turn the wheel to move the playhead (the white line) to where the first slice should start. Hold SHIFT for finer steps. You can also tap the waveform.
+1. Turn the wheel to move the playhead (the yellow line) to where the first slice should start. Hold SHIFT for finer steps. You can also tap the waveform.
 2. Hit a pad: slice 1 starts there and the sample starts playing.
 3. Hit the next pads up, in order, wherever new slices should start (e.g. 13, 14, 15, 16).
 4. Press **STOP**, then tap **→ PADS**. Each slice goes on the pad you hit for it.
+
+Hitting a pad that already has a slice jumps the song back to it, so you can redo a cue. A new pad always chops at the playhead, even behind your last chop; the slices stay in time order, so it splits the slice it lands in. If a pad can't chop, the screen says why (TOO CLOSE TO A CHOP, BEFORE THE FIRST CHOP, ALL PADS USED).
 
 If you're late on a hit, tap that pad again while it plays: it jumps back to that slice's start. **SHIFT + −** undoes the last chop change, and **SHIFT + +** redoes it.
 
