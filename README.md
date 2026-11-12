@@ -39,7 +39,7 @@ New versions show up in SideStore as updates (pull down in **My Apps** to check)
 
 ## Features
 
-Laid out like a hardware pad sampler, with the pads front and centre. **[Read the manual](MANUAL.md)** for how everything works.
+Laid out like a hardware pad sampler, with the pads front and center. **[Read the manual](MANUAL.md)** for how everything works.
 
 - **A hardware-style panel**: one main screen with B1–B3 keys above it and K1–K3 knobs below, a DATA WHEEL, a FADER and 16 square pads. Recording, kits, chopping and the song list are all pages of the one screen.
 - **8 banks × 16 pads** (A–H), with a drum kit on bank A and five factory kits to start from.
