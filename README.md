@@ -22,7 +22,7 @@ A pad sampler for iPhone and iPad (iOS 17 or later). Pick a song from your music
     </td>
     <td colspan="3" align="center">
       <img src="docs/ipad-landscape.png" height="200" alt="ChopPad on iPad in landscape, the same beat with bigger pads"><br>
-      <sub><b>iPad</b> · The same panel, square pads on the right</sub>
+      <sub><b>iPad</b> · Square pads from top to bottom</sub>
     </td>
   </tr>
   <tr>
