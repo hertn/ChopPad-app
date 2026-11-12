@@ -318,13 +318,33 @@
       "size": 1543105,
       "screenshots": {
         "iphone": [
-          "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/iphone-portrait.png",
-          "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/iphone-chop.png",
-          "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/iphone-landscape.png"
+          {
+            "imageURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/iphone-portrait.png",
+            "width": 800,
+            "height": 1734
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/iphone-chop.png",
+            "width": 800,
+            "height": 1734
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/iphone-landscape.png",
+            "width": 1600,
+            "height": 738
+          }
         ],
         "ipad": [
-          "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/ipad-chop.png",
-          "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/ipad-landscape.png"
+          {
+            "imageURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/ipad-chop.png",
+            "width": 1000,
+            "height": 1439
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/hertn/ChopPad-app/main/docs/ipad-landscape.png",
+            "width": 2360,
+            "height": 1640
+          }
         ]
       },
       "screenshotURLs": [
