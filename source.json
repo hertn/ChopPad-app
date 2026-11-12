@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.36.0",
+          "date": "2026-11-12T13:48:06Z",
+          "localizedDescription": "Big update: ChopPad now has the hardware-style panel from ChopPad Dev. One screen with B1–B3 keys, K1–K3 knobs, a data wheel and a fader; square pads on iPhone and iPad; live chopping where each slice lands on the pad you hit; step edit, pad link, filter envelope, flex beat and more. Your kits and samples carry over. The manual is rewritten: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.36.0/ChopPad.ipa",
+          "size": 1146009,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.25.0",
           "date": "2026-11-08T12:34:00Z",
           "localizedDescription": "Haptic feedback on pads, keys and knobs (knobs click as they turn). SHIFT + PAD FX opens About.",
@@ -287,11 +295,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.25.0",
-      "versionDate": "2026-11-08T12:34:00Z",
-      "versionDescription": "Haptic feedback on pads, keys and knobs (knobs click as they turn). SHIFT + PAD FX opens About.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.25.0/ChopPad.ipa",
-      "size": 1186752
+      "version": "0.36.0",
+      "versionDate": "2026-11-12T13:48:06Z",
+      "versionDescription": "Big update: ChopPad now has the hardware-style panel from ChopPad Dev. One screen with B1–B3 keys, K1–K3 knobs, a data wheel and a fader; square pads on iPhone and iPad; live chopping where each slice lands on the pad you hit; step edit, pad link, filter envelope, flex beat and more. Your kits and samples carry over. The manual is rewritten: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.36.0/ChopPad.ipa",
+      "size": 1146009
     }
   ],
   "news": []
