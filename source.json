@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.37.0",
+          "date": "2026-11-12T19:59:17Z",
+          "localizedDescription": "New look: a dark panel with keys colored by group, grey rubber pads lit from underneath in a color that shows what each pad does, and a new jog wheel. Pitch before chopping: set TUNE on a pad, press CHOP, and the slices keep the pitch. Chop fix: a pad now always chops at the playhead, even behind your last chop (it used to be ignored). Yellow playhead, PLAY lights while the sample plays, keys light while pressed. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.0/ChopPad.ipa",
+          "size": 1543104,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.36.0",
           "date": "2026-11-12T13:48:06Z",
           "localizedDescription": "Big update: ChopPad now has the hardware-style panel from ChopPad Dev. One screen with B1–B3 keys, K1–K3 knobs, a data wheel and a fader; square pads on iPhone and iPad; live chopping where each slice lands on the pad you hit; step edit, pad link, filter envelope, flex beat and more. Your kits and samples carry over. The manual is rewritten: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
@@ -295,11 +303,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.36.0",
-      "versionDate": "2026-11-12T13:48:06Z",
-      "versionDescription": "Big update: ChopPad now has the hardware-style panel from ChopPad Dev. One screen with B1–B3 keys, K1–K3 knobs, a data wheel and a fader; square pads on iPhone and iPad; live chopping where each slice lands on the pad you hit; step edit, pad link, filter envelope, flex beat and more. Your kits and samples carry over. The manual is rewritten: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.36.0/ChopPad.ipa",
-      "size": 1146009
+      "version": "0.37.0",
+      "versionDate": "2026-11-12T19:59:17Z",
+      "versionDescription": "New look: a dark panel with keys colored by group, grey rubber pads lit from underneath in a color that shows what each pad does, and a new jog wheel. Pitch before chopping: set TUNE on a pad, press CHOP, and the slices keep the pitch. Chop fix: a pad now always chops at the playhead, even behind your last chop (it used to be ignored). Yellow playhead, PLAY lights while the sample plays, keys light while pressed. Manual: https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.0/ChopPad.ipa",
+      "size": 1543104
     }
   ],
   "news": []
