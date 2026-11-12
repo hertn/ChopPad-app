@@ -14,13 +14,32 @@
 
 A pad sampler for iPhone and iPad (iOS 17 or later). Pick a song from your music library or record a sound with the mic, chop it into slices, drop them on pads, and make beats with a built-in drum kit and a looping sequencer.
 
-<p align="center">
-  <img src="docs/landscape.png" width="640" alt="ChopPad in landscape with a sequence playing">
-</p>
-<p align="center">
-  <img src="docs/portrait.png" width="220" alt="The panel in portrait">
-  <img src="docs/chop.png" width="220" alt="CHOP: a record cut into 8 slices">
-</p>
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <img src="docs/iphone-landscape.png" height="200" alt="ChopPad on iPhone in landscape, a beat playing on the SEQ screen"><br>
+      <sub><b>iPhone</b> · A beat playing on the SEQ screen</sub>
+    </td>
+    <td colspan="3" align="center">
+      <img src="docs/ipad-landscape.png" height="200" alt="ChopPad on iPad in landscape, the same beat with bigger pads"><br>
+      <sub><b>iPad</b> · The same panel, square pads on the right</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="docs/iphone-portrait.png" height="360" alt="ChopPad on iPhone in portrait, the SAMPLE screen"><br>
+      <sub><b>iPhone</b> · The full panel in portrait</sub>
+    </td>
+    <td colspan="2" align="center">
+      <img src="docs/iphone-chop.png" height="360" alt="ChopPad on iPhone, a record cut into 8 slices on pads 1–8"><br>
+      <sub><b>iPhone</b> · CHOP: a record cut into 8 slices</sub>
+    </td>
+    <td colspan="2" align="center">
+      <img src="docs/ipad-chop.png" height="360" alt="ChopPad on iPad in portrait, the same chop on the bigger screen"><br>
+      <sub><b>iPad</b> · CHOP in portrait</sub>
+    </td>
+  </tr>
+</table>
 
 ## Install with SideStore
 
