@@ -15,7 +15,7 @@ For version 0.36.0. ChopPad is laid out like a hardware pad sampler: one main sc
 
 **iPhone, landscape** (with the notch on the left): SHIFT, PAD BANK, the FADER, ERASE and NOTE REPEAT run down the left edge, the screen with everything around it is in the middle, and the pads fill the right side from top to bottom.
 
-**iPad**: the same keys, arranged to fill the bigger screen with square pads. Portrait: the screen, keys and knobs across the top, then SHIFT, PAD BANK, the FADER, ERASE and NOTE REPEAT down the left of the pads. Landscape: the pads fill the right side top to bottom; on the left the screen with the FADER beside it, then SAMPLE SELECT, TAP TEMPO, the wheel and − / +, the MODE keys, knobs and PAD PLAY keys, the SHIFT row and the transport row. The status bar is hidden on iPad.
+**iPad**: the same keys, arranged to fill the bigger screen with square pads. Portrait: the screen, keys and knobs across the top, then SHIFT, PAD BANK, the FADER, ERASE and NOTE REPEAT down the left of the pads. Landscape: the pads on the right, level with PLAY at the bottom, with SHIFT, PAD BANK, ERASE and NOTE REPEAT in a row above them; on the left the screen with the FADER beside it, then SAMPLE SELECT, TAP TEMPO, the wheel and − / +, the MODE keys, knobs and PAD PLAY keys, and the transport row. The status bar is hidden on iPad.
 
 Keys react as soon as you touch them, like real buttons, and you can hold several keys and pads at once. Messages about what just happened (for example "COPIED A1 → A2") appear for a moment in the middle of the screen.
 
