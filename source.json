@@ -23,6 +23,14 @@
       },
       "versions": [
         {
+          "version": "0.37.2",
+          "date": "2026-11-13T12:17:51Z",
+          "localizedDescription": "iPad 6th gen and other 4:3 iPads: the controls now fit (no cut-off key names, screen and knobs no longer squashed). Pads are slightly smaller there.",
+          "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.2/ChopPad.ipa",
+          "size": 1543311,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.37.1",
           "date": "2026-11-12T20:30:57Z",
           "localizedDescription": "Swipe up for home: the first swipe now only shows the home bar, a second swipe leaves the app, so you don't drop out of a beat by accident. The home bar stays visible to make this work.",
@@ -311,11 +319,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "0.37.1",
-      "versionDate": "2026-11-12T20:30:57Z",
-      "versionDescription": "Swipe up for home: the first swipe now only shows the home bar, a second swipe leaves the app, so you don't drop out of a beat by accident. The home bar stays visible to make this work.",
-      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.1/ChopPad.ipa",
-      "size": 1543105,
+      "version": "0.37.2",
+      "versionDate": "2026-11-13T12:17:51Z",
+      "versionDescription": "iPad 6th gen and other 4:3 iPads: the controls now fit (no cut-off key names, screen and knobs no longer squashed). Pads are slightly smaller there.",
+      "downloadURL": "https://github.com/hertn/ChopPad-app/releases/download/v0.37.2/ChopPad.ipa",
+      "size": 1543311,
       "screenshots": {
         "iphone": [
           {
