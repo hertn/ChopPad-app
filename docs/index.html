@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ChopPad: free MPC-style music sampler for iPhone and iPad</title>
+<meta name="description" content="Free MPC-style pad sampler and music beat maker for iPhone and iPad. Chop songs into slices, record with the mic, and make beats with 16 pads.">
+<link rel="canonical" href="https://hertn.github.io/ChopPad-app/">
+<meta name="theme-color" content="#1c1d21">
+<link rel="icon" type="image/svg+xml" href="icon-rounded.svg">
+<link rel="apple-touch-icon" href="icon.png">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ChopPad">
+<meta property="og:title" content="ChopPad: free MPC-style music sampler for iPhone and iPad">
+<meta property="og:description" content="Chop songs into pads, record sounds, and make beats with a drum kit and a looping sequencer. Free, no ads.">
+<meta property="og:url" content="https://hertn.github.io/ChopPad-app/">
+<meta property="og:image" content="https://hertn.github.io/ChopPad-app/iphone-landscape.png">
+<meta property="og:image:width" content="1600">
+<meta property="og:image:height" content="738">
+<meta property="og:image:alt" content="ChopPad on iPhone in landscape: the sequencer screen with 16 drum pads">
+<meta name="twitter:card" content="summary_large_image">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "ChopPad",
+  "description": "An MPC-style music pad sampler for iPhone and iPad: chop songs into slices, record sounds, and make beats with 8 banks of 16 pads, a drum kit and a looping sequencer.",
+  "url": "https://hertn.github.io/ChopPad-app/",
+  "applicationCategory": "MultimediaApplication",
+  "applicationSubCategory": "Music production",
+  "operatingSystem": "iOS 17 or later, iPadOS 17 or later",
+  "downloadUrl": "https://github.com/hertn/ChopPad-app/releases/latest/download/ChopPad.ipa",
+  "installUrl": "https://github.com/hertn/ChopPad-app#install-with-sidestore",
+  "screenshot": ["https://hertn.github.io/ChopPad-app/iphone-landscape.png", "https://hertn.github.io/ChopPad-app/ipad-landscape.png"],
+  "image": "https://hertn.github.io/ChopPad-app/icon.png",
+  "isAccessibleForFree": true,
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "author": { "@type": "Person", "name": "hertn", "url": "https://github.com/hertn" },
+  "sameAs": ["https://github.com/hertn/ChopPad-app"]
+}
+</script>
+
+<style>
+:root{
+  --bg:#141518; --surface:#1f2024; --surface-2:#2a2c31; --line:#34363c;
+  --text:#f2f2f5; --text-2:#a9abb3; --text-3:#80838c;
+  --accent:#0a84ff; --accent-btn:#0b6fdc; --on-accent:#fff; --r:16px;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:17px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+header.hero{text-align:center;padding-top:72px;padding-bottom:40px}
+.hero img.icon{width:96px;height:96px;border-radius:22px}
+h1{font-size:clamp(2.2rem,6vw,3.4rem);line-height:1.08;margin:18px 0 8px;letter-spacing:-.02em}
+.tag{color:var(--text-2);margin:0 0 18px;font-size:1.2rem}
+.lede{max-width:640px;margin:0 auto 28px;font-size:1.1rem}
+.cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.btn{display:inline-block;padding:12px 22px;border-radius:999px;text-decoration:none;font-weight:600;border:1px solid var(--line)}
+.btn.primary{background:var(--accent-btn);color:var(--on-accent);border-color:var(--accent-btn)}
+.btn:focus-visible{outline:3px solid var(--text);outline-offset:3px}
+.note{color:var(--text-3);font-size:.9rem;margin-top:14px}
+figure{margin:0}
+.shot img{width:100%;height:auto;display:block;border-radius:var(--r);border:1px solid var(--line)}
+figcaption{color:var(--text-2);font-size:.9rem;margin-top:8px}
+section{padding-top:56px;padding-bottom:56px;border-top:1px solid var(--line)}
+h2{font-size:1.8rem;margin:0 0 20px;letter-spacing:-.01em}
+h3{font-size:1.05rem;margin:0 0 6px}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:20px}
+.card p{margin:0;color:var(--text-2)}
+.portraits{display:grid;gap:16px;grid-template-columns:repeat(3,1fr);align-items:end}
+@media (max-width:640px){.portraits{grid-template-columns:1fr 1fr}}
+ol.steps{padding-left:1.2em}
+ol.steps li{margin-bottom:10px}
+code{background:var(--surface-2);padding:2px 6px;border-radius:6px;font-size:.88em;word-break:break-all}
+footer{border-top:1px solid var(--line);padding:32px 0 48px;color:var(--text-3);font-size:.9rem;text-align:center}
+</style>
+</head>
+<body>
+<main>
+  <header class="hero wrap">
+    <img class="icon" src="icon.png" width="96" height="96" alt="ChopPad icon">
+    <h1>ChopPad</h1>
+    <p class="tag">Chop songs into pads and make beats on your iPhone.</p>
+    <p class="lede">A free <strong>MPC-style pad sampler and music beat maker for iPhone and iPad</strong>, laid out like a hardware sampler. Sample a song or the mic, chop it into slices, drop them on 16 pads and build a beat with the sequencer.</p>
+    <div class="cta">
+      <a class="btn primary" href="#install">Install with SideStore</a>
+      <a class="btn" href="https://github.com/hertn/ChopPad-app/releases/latest/download/ChopPad.ipa">Download the .ipa</a>
+    </div>
+    <p class="note">Free, no ads, no subscription. iOS and iPadOS 17 or later.</p>
+  </header>
+
+  <div class="wrap">
+    <figure class="shot">
+      <img src="iphone-landscape.png" width="1600" height="738" alt="ChopPad on iPhone in landscape: a beat playing on the SEQ screen, with knobs, a data wheel, a fader and 16 drum pads">
+      <figcaption>A beat playing on the SEQ screen, iPhone in landscape.</figcaption>
+    </figure>
+  </div>
+
+  <section class="wrap" aria-labelledby="features">
+    <h2 id="features">An MPC-style sampler app for making music</h2>
+    <div class="grid">
+      <div class="card"><h3>Sample your own songs</h3><p>Pick a song from your iPhone or the Files app, choose the part you want and change its pitch without changing the speed.</p></div>
+      <div class="card"><h3>Chop it up</h3><p>Chop at every hit, into 4, 8 or 16 even slices, or live: hit any pad while the song plays and the slice lands on that pad.</p></div>
+      <div class="card"><h3>Record anything</h3><p>Record from the mic or an audio interface, or resample ChopPad itself. SAMPLE RECALL catches the last 30 seconds you played.</p></div>
+      <div class="card"><h3>8 banks × 16 pads</h3><p>A drum kit on bank A and five factory kits to start from. Trim, tune, filter, envelope and warp each pad to the tempo.</p></div>
+      <div class="card"><h3>Looping sequencer</h3><p>128 sequences up to 128 bars, swing, quantize, step edit, note repeat with triplets, song mode and fader automation.</p></div>
+      <div class="card"><h3>Effects</h3><p>16 PAD FX played from the pads, FLEX BEAT repeats, and KNOB FX: vintage, vinyl, tape, delay, filter, pump and compressor.</p></div>
+    </div>
+  </section>
+
+  <section class="wrap" aria-labelledby="look">
+    <h2 id="look">On iPhone and iPad</h2>
+    <figure class="shot" style="margin-bottom:24px">
+      <img src="ipad-landscape.png" width="2360" height="1640" loading="lazy" alt="ChopPad on iPad in landscape: the same beat with bigger square pads">
+      <figcaption>iPad: square pads from top to bottom.</figcaption>
+    </figure>
+    <div class="portraits">
+      <figure class="shot"><img src="iphone-portrait.png" width="800" height="1734" loading="lazy" alt="ChopPad on iPhone in portrait: the SAMPLE screen above the 16 pads"><figcaption>The full panel in portrait.</figcaption></figure>
+      <figure class="shot"><img src="iphone-chop.png" width="800" height="1734" loading="lazy" alt="ChopPad on iPhone: a record cut into 8 slices on pads 1 to 8"><figcaption>CHOP: a record cut into 8 slices.</figcaption></figure>
+      <figure class="shot"><img src="ipad-chop.png" width="1000" height="1439" loading="lazy" alt="ChopPad on iPad in portrait: the same chop on the bigger screen"><figcaption>CHOP on iPad.</figcaption></figure>
+    </div>
+  </section>
+
+  <section class="wrap" id="install" aria-labelledby="install-h">
+    <h2 id="install-h">Install with SideStore</h2>
+    <ol class="steps">
+      <li>Open <strong>SideStore → Sources → +</strong></li>
+      <li>Paste this source URL: <code>https://raw.githubusercontent.com/hertn/ChopPad-app/main/source.json</code></li>
+      <li>Find <strong>ChopPad</strong> and tap <strong>Get</strong>.</li>
+    </ol>
+    <p>Updates show up in SideStore. The source also works in AltStore. Or <a href="https://github.com/hertn/ChopPad-app/releases/latest/download/ChopPad.ipa">download ChopPad.ipa</a> directly and read the <a href="https://github.com/hertn/ChopPad-app/blob/main/MANUAL.md">manual</a>.</p>
+  </section>
+
+  <section class="wrap" aria-labelledby="support">
+    <h2 id="support">Support</h2>
+    <p>ChopPad is free, with no ads or subscriptions. If you enjoy it, you can <a href="https://ko-fi.com/hertn">buy me a coffee on Ko-fi</a>.</p>
+  </section>
+</main>
+<footer class="wrap">
+  Made by <a href="https://github.com/hertn">hertn</a> with Claude. <a href="https://github.com/hertn/ChopPad-app">ChopPad on GitHub</a>. All rights reserved. Not affiliated with Akai Professional; MPC is a trademark of Akai Professional.
+</footer>
+</body>
+</html>
